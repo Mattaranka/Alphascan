@@ -1,0 +1,39 @@
+name: Scan quotidien Bourse de Paris
+
+on:
+  schedule:
+    # 18:15 UTC, du lundi au vendredi.
+    # Choisi volontairement APRES la cloture d'Euronext Paris (17h30) toute l'annee,
+    # hiver (UTC+1) comme ete (UTC+2) -- l'heure exacte n'a pas d'importance tant que
+    # c'est apres la cloture : le cours de cloture ne bouge plus.
+    - cron: '15 18 * * 1-5'
+  workflow_dispatch: {}   # permet de lancer le scan manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cloner le repo
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scanner
+        run: python scanner_bourse_paris.py --out scan_du_jour.json
+
+      - name: Committer les resultats
+        run: |
+          git config user.name "scanner-bot"
+          git config user.email "scanner-bot@users.noreply.github.com"
+          git add scan_du_jour.json zones_memory.json
+          git diff --quiet --cached || git commit -m "Scan automatique $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
