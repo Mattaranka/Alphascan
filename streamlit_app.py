@@ -223,6 +223,10 @@ if ticker_options:
     k5.metric("RSI14", f"{row['rsi14']:.1f}")
     k6.metric("ATR14", f"{row['atr14']:.2f} ({row['atr_pct']}%)")
 
+    if st.button("📈 Voir le graphique complet de cette valeur"):
+        st.session_state["selected_ticker"] = chosen
+        st.switch_page("pages/1_Graphique.py")
+
     st.markdown("**Zones memoire les plus proches du cours actuel**")
     zones = row.get("zones_top3") or []
     if zones:
