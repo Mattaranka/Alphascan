@@ -1,122 +1,24 @@
 {
-  "generated_at": "2026-08-13T19:17:34.421618+00:00",
-  "scan_date": "2026-08-13",
+  "generated_at": "2026-08-14T19:11:17.338175+00:00",
+  "scan_date": "2026-08-14",
   "nb_tickers_ok": 108,
   "nb_tickers_erreur": 3,
   "tickers": [
     {
-      "ticker": "RUI.PA",
-      "nom": "Rubis",
-      "date": "2026-08-13",
-      "close": 34.04,
-      "ema20": 33.113,
-      "ema50": 32.797,
-      "ema200": 31.63,
-      "rsi14": 64.6,
-      "atr14": 0.567,
-      "atr_pct": 1.67,
+      "ticker": "TEP.PA",
+      "nom": "Teleperformance",
+      "date": "2026-08-14",
+      "close": 70.86,
+      "ema20": 64.657,
+      "ema50": 60.215,
+      "ema200": 58.675,
+      "rsi14": 66.4,
+      "atr14": 3.179,
+      "atr_pct": 4.49,
       "atr_rising": true,
-      "vol_ratio": 1.5,
-      "high_52w": 34.926,
-      "dist_52w_pct": -2.54,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": true,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 100.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-04-13",
-          "low": 33.25,
-          "high": 33.721,
-          "close": 33.457,
-          "vol_ratio": 2.5
-        },
-        {
-          "date": "2026-08-05",
-          "low": 32.66,
-          "high": 34.02,
-          "close": 33.56,
-          "vol_ratio": 2.12
-        },
-        {
-          "date": "2026-05-11",
-          "low": 33.061,
-          "high": 33.438,
-          "close": 33.061,
-          "vol_ratio": 2.69
-        }
-      ],
-      "zones_count": 19
-    },
-    {
-      "ticker": "ML.PA",
-      "nom": "Michelin",
-      "date": "2026-08-13",
-      "close": 34.86,
-      "ema20": 34.529,
-      "ema50": 33.825,
-      "ema200": 31.402,
-      "rsi14": 56.0,
-      "atr14": 0.63,
-      "atr_pct": 1.81,
-      "atr_rising": true,
-      "vol_ratio": 1.02,
-      "high_52w": 35.72,
-      "dist_52w_pct": -2.41,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 92.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 31.18,
-          "high": 31.71,
-          "close": 31.51,
-          "vol_ratio": 3.22
-        },
-        {
-          "date": "2025-02-13",
-          "low": 30.854,
-          "high": 31.617,
-          "close": 31.305,
-          "vol_ratio": 2.25
-        },
-        {
-          "date": "2025-02-28",
-          "low": 30.588,
-          "high": 31.599,
-          "close": 31.397,
-          "vol_ratio": 2.87
-        }
-      ],
-      "zones_count": 10
-    },
-    {
-      "ticker": "LI.PA",
-      "nom": "Klepierre",
-      "date": "2026-08-13",
-      "close": 38.8,
-      "ema20": 38.783,
-      "ema50": 37.277,
-      "ema200": 34.058,
-      "rsi14": 55.6,
-      "atr14": 0.53,
-      "atr_pct": 1.37,
-      "atr_rising": true,
-      "vol_ratio": 1.17,
-      "high_52w": 40.38,
-      "dist_52w_pct": -3.91,
+      "vol_ratio": 1.19,
+      "high_52w": 73.264,
+      "dist_52w_pct": -3.28,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -124,48 +26,48 @@
         "near_ema200": false
       },
       "momentum_score": 87.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
-          "date": "2026-06-10",
-          "low": 34.752,
-          "high": 35.784,
-          "close": 35.667,
-          "vol_ratio": 2.31
+          "date": "2025-06-20",
+          "low": 70.452,
+          "high": 73.789,
+          "close": 70.658,
+          "vol_ratio": 3.2
         },
         {
-          "date": "2026-06-19",
-          "low": 34.362,
-          "high": 35.025,
-          "close": 34.752,
-          "vol_ratio": 3.72
+          "date": "2025-08-01",
+          "low": 63.776,
+          "high": 70.939,
+          "close": 63.776,
+          "vol_ratio": 5.4
         },
         {
-          "date": "2026-05-29",
-          "low": 34.109,
-          "high": 34.499,
-          "close": 34.109,
-          "vol_ratio": 3.38
+          "date": "2026-08-03",
+          "low": 63.76,
+          "high": 68.84,
+          "close": 64.96,
+          "vol_ratio": 2.0
         }
       ],
-      "zones_count": 15
+      "zones_count": 20
     },
     {
       "ticker": "MF.PA",
       "nom": "Wendel",
-      "date": "2026-08-13",
-      "close": 86.8,
-      "ema20": 84.789,
-      "ema50": 83.567,
-      "ema200": 81.504,
-      "rsi14": 64.7,
-      "atr14": 1.524,
-      "atr_pct": 1.76,
+      "date": "2026-08-14",
+      "close": 88.25,
+      "ema20": 85.068,
+      "ema50": 83.737,
+      "ema200": 81.57,
+      "rsi14": 69.8,
+      "atr14": 1.54,
+      "atr_pct": 1.75,
       "atr_rising": true,
-      "vol_ratio": 0.87,
+      "vol_ratio": 0.98,
       "high_52w": 89.175,
-      "dist_52w_pct": -2.66,
+      "dist_52w_pct": -1.04,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -177,18 +79,18 @@
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
-          "date": "2026-02-10",
-          "low": 86.026,
-          "high": 87.994,
-          "close": 87.946,
-          "vol_ratio": 2.13
-        },
-        {
           "date": "2025-02-25",
           "low": 85.596,
           "high": 88.679,
           "close": 86.177,
           "vol_ratio": 2.63
+        },
+        {
+          "date": "2026-02-10",
+          "low": 86.026,
+          "high": 87.994,
+          "close": 87.946,
+          "vol_ratio": 2.13
         },
         {
           "date": "2026-02-11",
@@ -203,18 +105,18 @@
     {
       "ticker": "AMUN.PA",
       "nom": "Amundi",
-      "date": "2026-08-13",
-      "close": 95.25,
-      "ema20": 93.06,
-      "ema50": 88.681,
-      "ema200": 77.865,
-      "rsi14": 66.1,
-      "atr14": 1.616,
-      "atr_pct": 1.7,
+      "date": "2026-08-14",
+      "close": 95.95,
+      "ema20": 93.335,
+      "ema50": 88.966,
+      "ema200": 78.033,
+      "rsi14": 68.3,
+      "atr14": 1.597,
+      "atr_pct": 1.66,
       "atr_rising": true,
-      "vol_ratio": 0.93,
+      "vol_ratio": 0.55,
       "high_52w": 97.45,
-      "dist_52w_pct": -2.26,
+      "dist_52w_pct": -1.54,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -250,20 +152,167 @@
       "zones_count": 19
     },
     {
+      "ticker": "AKE.PA",
+      "nom": "Arkema",
+      "date": "2026-08-14",
+      "close": 62.2,
+      "ema20": 59.939,
+      "ema50": 58.451,
+      "ema200": 56.61,
+      "rsi14": 64.1,
+      "atr14": 1.499,
+      "atr_pct": 2.41,
+      "atr_rising": true,
+      "vol_ratio": 0.52,
+      "high_52w": 63.65,
+      "dist_52w_pct": -2.28,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 85.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-05-04",
+          "low": 57.988,
+          "high": 59.589,
+          "close": 58.364,
+          "vol_ratio": 2.43
+        },
+        {
+          "date": "2025-06-20",
+          "low": 55.679,
+          "high": 56.527,
+          "close": 55.962,
+          "vol_ratio": 2.24
+        },
+        {
+          "date": "2025-09-19",
+          "low": 52.759,
+          "high": 55.161,
+          "close": 52.9,
+          "vol_ratio": 2.68
+        }
+      ],
+      "zones_count": 12
+    },
+    {
+      "ticker": "GTT.PA",
+      "nom": "GTT",
+      "date": "2026-08-14",
+      "close": 206.4,
+      "ema20": 197.181,
+      "ema50": 194.488,
+      "ema200": 183.377,
+      "rsi14": 67.4,
+      "atr14": 4.276,
+      "atr_pct": 2.07,
+      "atr_rising": true,
+      "vol_ratio": 0.79,
+      "high_52w": 209.665,
+      "dist_52w_pct": -1.56,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 85.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-03-20",
+          "low": 197.183,
+          "high": 206.935,
+          "close": 198.743,
+          "vol_ratio": 2.2
+        },
+        {
+          "date": "2026-02-20",
+          "low": 172.901,
+          "high": 186.261,
+          "close": 182.653,
+          "vol_ratio": 2.81
+        },
+        {
+          "date": "2025-11-03",
+          "low": 166.863,
+          "high": 177.721,
+          "close": 177.721,
+          "vol_ratio": 2.18
+        }
+      ],
+      "zones_count": 12
+    },
+    {
+      "ticker": "RUI.PA",
+      "nom": "Rubis",
+      "date": "2026-08-14",
+      "close": 34.54,
+      "ema20": 33.249,
+      "ema50": 32.865,
+      "ema200": 31.665,
+      "rsi14": 68.9,
+      "atr14": 0.569,
+      "atr_pct": 1.65,
+      "atr_rising": true,
+      "vol_ratio": 0.88,
+      "high_52w": 34.926,
+      "dist_52w_pct": -1.11,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 85.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-04-13",
+          "low": 33.25,
+          "high": 33.721,
+          "close": 33.457,
+          "vol_ratio": 2.5
+        },
+        {
+          "date": "2026-08-05",
+          "low": 32.66,
+          "high": 34.02,
+          "close": 33.56,
+          "vol_ratio": 2.12
+        },
+        {
+          "date": "2026-05-11",
+          "low": 33.061,
+          "high": 33.438,
+          "close": 33.061,
+          "vol_ratio": 2.69
+        }
+      ],
+      "zones_count": 19
+    },
+    {
       "ticker": "ENX.PA",
       "nom": "Euronext",
-      "date": "2026-08-13",
-      "close": 159.2,
-      "ema20": 155.706,
-      "ema50": 150.352,
-      "ema200": 139.05,
-      "rsi14": 62.4,
-      "atr14": 2.948,
-      "atr_pct": 1.85,
+      "date": "2026-08-14",
+      "close": 158.9,
+      "ema20": 156.01,
+      "ema50": 150.688,
+      "ema200": 139.3,
+      "rsi14": 61.5,
+      "atr14": 2.93,
+      "atr_pct": 1.84,
       "atr_rising": true,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.45,
       "high_52w": 163.6,
-      "dist_52w_pct": -2.69,
+      "dist_52w_pct": -2.87,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -299,314 +348,20 @@
       "zones_count": 9
     },
     {
-      "ticker": "ARG.PA",
-      "nom": "Argan",
-      "date": "2026-08-13",
-      "close": 72.9,
-      "ema20": 71.701,
-      "ema50": 67.402,
-      "ema200": 62.893,
-      "rsi14": 62.8,
-      "atr14": 1.461,
-      "atr_pct": 2.0,
-      "atr_rising": false,
-      "vol_ratio": 1.67,
-      "high_52w": 78.2,
-      "dist_52w_pct": -6.78,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": true,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 85.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-07-24",
-          "low": 69.9,
-          "high": 76.5,
-          "close": 75.2,
-          "vol_ratio": 8.74
-        },
-        {
-          "date": "2026-07-27",
-          "low": 75.1,
-          "high": 77.1,
-          "close": 76.9,
-          "vol_ratio": 2.57
-        },
-        {
-          "date": "2025-09-19",
-          "low": 61.231,
-          "high": 63.115,
-          "close": 63.115,
-          "vol_ratio": 4.3
-        }
-      ],
-      "zones_count": 14
-    },
-    {
-      "ticker": "PLNW.PA",
-      "nom": "Planisware",
-      "date": "2026-08-13",
-      "close": 25.0,
-      "ema20": 23.182,
-      "ema50": 21.293,
-      "ema200": 19.635,
-      "rsi14": 69.5,
-      "atr14": 0.928,
-      "atr_pct": 3.71,
-      "atr_rising": true,
-      "vol_ratio": 0.84,
-      "high_52w": 25.3,
-      "dist_52w_pct": -1.19,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 85.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2025-05-30",
-          "low": 23.413,
-          "high": 24.429,
-          "close": 23.703,
-          "vol_ratio": 2.64
-        },
-        {
-          "date": "2025-02-27",
-          "low": 25.783,
-          "high": 26.741,
-          "close": 26.528,
-          "vol_ratio": 3.65
-        },
-        {
-          "date": "2026-07-30",
-          "low": 22.8,
-          "high": 24.55,
-          "close": 22.8,
-          "vol_ratio": 2.25
-        }
-      ],
-      "zones_count": 19
-    },
-    {
-      "ticker": "IPS.PA",
-      "nom": "Ipsos",
-      "date": "2026-08-13",
-      "close": 38.7,
-      "ema20": 38.372,
-      "ema50": 36.997,
-      "ema200": 35.01,
-      "rsi14": 53.0,
-      "atr14": 1.356,
-      "atr_pct": 3.5,
-      "atr_rising": true,
-      "vol_ratio": 1.49,
-      "high_52w": 42.98,
-      "dist_52w_pct": -9.96,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 82.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-07-23",
-          "low": 36.46,
-          "high": 41.04,
-          "close": 39.54,
-          "vol_ratio": 4.51
-        },
-        {
-          "date": "2026-07-31",
-          "low": 35.02,
-          "high": 41.62,
-          "close": 35.74,
-          "vol_ratio": 5.31
-        },
-        {
-          "date": "2025-06-20",
-          "low": 39.083,
-          "high": 39.517,
-          "close": 39.426,
-          "vol_ratio": 3.09
-        }
-      ],
-      "zones_count": 18
-    },
-    {
-      "ticker": "TTE.PA",
-      "nom": "TotalEnergies",
-      "date": "2026-08-13",
-      "close": 75.41,
-      "ema20": 74.336,
-      "ema50": 73.299,
-      "ema200": 67.621,
-      "rsi14": 56.4,
-      "atr14": 1.701,
-      "atr_pct": 2.26,
-      "atr_rising": true,
-      "vol_ratio": 0.81,
-      "high_52w": 80.249,
-      "dist_52w_pct": -6.03,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 80.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 73.789,
-          "high": 74.738,
-          "close": 74.254,
-          "vol_ratio": 2.48
-        },
-        {
-          "date": "2026-06-19",
-          "low": 69.868,
-          "high": 70.787,
-          "close": 70.194,
-          "vol_ratio": 2.99
-        },
-        {
-          "date": "2026-03-02",
-          "low": 67.396,
-          "high": 71.344,
-          "close": 67.787,
-          "vol_ratio": 2.81
-        }
-      ],
-      "zones_count": 13
-    },
-    {
-      "ticker": "TEP.PA",
-      "nom": "Teleperformance",
-      "date": "2026-08-13",
-      "close": 69.1,
-      "ema20": 64.004,
-      "ema50": 59.781,
-      "ema200": 58.503,
-      "rsi14": 64.0,
-      "atr14": 3.204,
-      "atr_pct": 4.64,
-      "atr_rising": true,
-      "vol_ratio": 0.75,
-      "high_52w": 73.264,
-      "dist_52w_pct": -5.68,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 80.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2025-08-01",
-          "low": 63.776,
-          "high": 70.939,
-          "close": 63.776,
-          "vol_ratio": 5.4
-        },
-        {
-          "date": "2026-08-03",
-          "low": 63.76,
-          "high": 68.84,
-          "close": 64.96,
-          "vol_ratio": 2.0
-        },
-        {
-          "date": "2025-06-20",
-          "low": 70.452,
-          "high": 73.789,
-          "close": 70.658,
-          "vol_ratio": 3.2
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "RXL.PA",
-      "nom": "Rexel",
-      "date": "2026-08-13",
-      "close": 37.57,
-      "ema20": 37.273,
-      "ema50": 37.152,
-      "ema200": 34.366,
-      "rsi14": 52.5,
-      "atr14": 0.912,
-      "atr_pct": 2.43,
-      "atr_rising": true,
-      "vol_ratio": 0.73,
-      "high_52w": 39.8,
-      "dist_52w_pct": -5.6,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 80.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-06-19",
-          "low": 38.01,
-          "high": 38.83,
-          "close": 38.01,
-          "vol_ratio": 2.49
-        },
-        {
-          "date": "2026-04-14",
-          "low": 35.828,
-          "high": 36.487,
-          "close": 36.487,
-          "vol_ratio": 2.13
-        },
-        {
-          "date": "2026-02-03",
-          "low": 35.45,
-          "high": 36.574,
-          "close": 36.574,
-          "vol_ratio": 2.85
-        }
-      ],
-      "zones_count": 15
-    },
-    {
       "ticker": "BB.PA",
       "nom": "Bic",
-      "date": "2026-08-13",
-      "close": 66.7,
-      "ema20": 64.768,
-      "ema50": 61.506,
-      "ema200": 55.89,
-      "rsi14": 66.3,
-      "atr14": 1.309,
-      "atr_pct": 1.96,
+      "date": "2026-08-14",
+      "close": 66.4,
+      "ema20": 64.668,
+      "ema50": 61.412,
+      "ema200": 55.853,
+      "rsi14": 65.3,
+      "atr14": 1.285,
+      "atr_pct": 1.94,
       "atr_rising": true,
-      "vol_ratio": 0.47,
-      "high_52w": 69.3,
-      "dist_52w_pct": -3.75,
+      "vol_ratio": 0.76,
+      "high_52w": 68.8,
+      "dist_52w_pct": -3.49,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -617,19 +372,19 @@
       "phase": "momentum",
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
+        {
+          "date": "2026-07-30",
+          "low": 62.9,
+          "high": 68.8,
+          "close": 67.6,
+          "vol_ratio": 4.84
+        },
         {
           "date": "2026-08-11",
           "low": 66.7,
           "high": 67.4,
           "close": 67.2,
           "vol_ratio": 2.03
-        },
-        {
-          "date": "2026-07-30",
-          "low": 62.9,
-          "high": 68.8,
-          "close": 67.6,
-          "vol_ratio": 4.69
         },
         {
           "date": "2026-07-31",
@@ -644,16 +399,16 @@
     {
       "ticker": "DEC.PA",
       "nom": "JCDecaux",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "close": 24.0,
-      "ema20": 23.191,
-      "ema50": 21.614,
-      "ema200": 18.488,
-      "rsi14": 65.6,
-      "atr14": 0.612,
-      "atr_pct": 2.55,
+      "ema20": 23.203,
+      "ema50": 21.598,
+      "ema200": 18.463,
+      "rsi14": 67.8,
+      "atr14": 0.593,
+      "atr_pct": 2.47,
       "atr_rising": true,
-      "vol_ratio": 0.77,
+      "vol_ratio": 0.47,
       "high_52w": 25.04,
       "dist_52w_pct": -4.15,
       "signals": {
@@ -671,14 +426,14 @@
           "low": 22.7,
           "high": 23.68,
           "close": 22.96,
-          "vol_ratio": 2.18
+          "vol_ratio": 2.14
         },
         {
           "date": "2026-07-29",
           "low": 22.12,
           "high": 22.74,
           "close": 22.42,
-          "vol_ratio": 2.33
+          "vol_ratio": 2.25
         },
         {
           "date": "2026-03-12",
@@ -691,20 +446,20 @@
       "zones_count": 18
     },
     {
-      "ticker": "AKE.PA",
-      "nom": "Arkema",
-      "date": "2026-08-13",
-      "close": 61.65,
-      "ema20": 59.702,
-      "ema50": 58.298,
-      "ema200": 56.551,
-      "rsi14": 62.2,
-      "atr14": 1.537,
-      "atr_pct": 2.49,
+      "ticker": "LI.PA",
+      "nom": "Klepierre",
+      "date": "2026-08-14",
+      "close": 38.82,
+      "ema20": 38.697,
+      "ema50": 37.2,
+      "ema200": 34.017,
+      "rsi14": 57.4,
+      "atr14": 0.514,
+      "atr_pct": 1.32,
       "atr_rising": true,
-      "vol_ratio": 0.75,
-      "high_52w": 63.65,
-      "dist_52w_pct": -3.14,
+      "vol_ratio": 0.78,
+      "high_52w": 40.38,
+      "dist_52w_pct": -3.86,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -712,97 +467,48 @@
         "near_ema200": false
       },
       "momentum_score": 80.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-05-04",
-          "low": 57.988,
-          "high": 59.589,
-          "close": 58.364,
-          "vol_ratio": 2.43
+          "date": "2026-06-10",
+          "low": 34.752,
+          "high": 35.784,
+          "close": 35.667,
+          "vol_ratio": 2.31
         },
         {
-          "date": "2025-06-20",
-          "low": 55.679,
-          "high": 56.527,
-          "close": 55.962,
-          "vol_ratio": 2.24
+          "date": "2026-06-19",
+          "low": 34.362,
+          "high": 35.025,
+          "close": 34.752,
+          "vol_ratio": 3.72
         },
         {
-          "date": "2025-09-19",
-          "low": 52.759,
-          "high": 55.161,
-          "close": 52.9,
-          "vol_ratio": 2.68
+          "date": "2026-05-29",
+          "low": 34.109,
+          "high": 34.499,
+          "close": 34.109,
+          "vol_ratio": 3.38
         }
       ],
-      "zones_count": 12
-    },
-    {
-      "ticker": "GTT.PA",
-      "nom": "GTT",
-      "date": "2026-08-13",
-      "close": 202.4,
-      "ema20": 196.382,
-      "ema50": 194.054,
-      "ema200": 183.353,
-      "rsi14": 62.7,
-      "atr14": 4.229,
-      "atr_pct": 2.09,
-      "atr_rising": true,
-      "vol_ratio": 0.96,
-      "high_52w": 209.665,
-      "dist_52w_pct": -3.47,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 80.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-03-20",
-          "low": 197.183,
-          "high": 206.935,
-          "close": 198.743,
-          "vol_ratio": 2.2
-        },
-        {
-          "date": "2026-02-20",
-          "low": 172.901,
-          "high": 186.261,
-          "close": 182.653,
-          "vol_ratio": 2.81
-        },
-        {
-          "date": "2025-11-03",
-          "low": 166.863,
-          "high": 177.721,
-          "close": 177.721,
-          "vol_ratio": 2.18
-        }
-      ],
-      "zones_count": 12
+      "zones_count": 15
     },
     {
       "ticker": "MRN.PA",
       "nom": "Mersen",
-      "date": "2026-08-13",
-      "close": 40.84,
-      "ema20": 39.264,
-      "ema50": 38.183,
-      "ema200": 31.55,
-      "rsi14": 58.8,
-      "atr14": 1.587,
-      "atr_pct": 3.89,
+      "date": "2026-08-14",
+      "close": 40.92,
+      "ema20": 39.45,
+      "ema50": 38.321,
+      "ema200": 31.556,
+      "rsi14": 58.3,
+      "atr14": 1.549,
+      "atr_pct": 3.78,
       "atr_rising": true,
-      "vol_ratio": 0.58,
+      "vol_ratio": 0.42,
       "high_52w": 44.383,
-      "dist_52w_pct": -7.98,
+      "dist_52w_pct": -7.8,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -838,20 +544,118 @@
       "zones_count": 20
     },
     {
+      "ticker": "PLNW.PA",
+      "nom": "Planisware",
+      "date": "2026-08-14",
+      "close": 25.6,
+      "ema20": 23.326,
+      "ema50": 21.341,
+      "ema200": 19.634,
+      "rsi14": 72.1,
+      "atr14": 0.95,
+      "atr_pct": 3.71,
+      "atr_rising": true,
+      "vol_ratio": 1.01,
+      "high_52w": 26.05,
+      "dist_52w_pct": -1.73,
+      "signals": {
+        "breakout_52w": true,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 80.0,
+      "phase": "extension",
+      "phase_label": "Phase 3 - Extension",
+      "zones_top3": [
+        {
+          "date": "2025-02-27",
+          "low": 25.783,
+          "high": 26.741,
+          "close": 26.528,
+          "vol_ratio": 3.65
+        },
+        {
+          "date": "2025-02-28",
+          "low": 26.461,
+          "high": 27.917,
+          "close": 26.499,
+          "vol_ratio": 5.47
+        },
+        {
+          "date": "2025-05-30",
+          "low": 23.413,
+          "high": 24.429,
+          "close": 23.703,
+          "vol_ratio": 2.64
+        }
+      ],
+      "zones_count": 19
+    },
+    {
+      "ticker": "SU.PA",
+      "nom": "Schneider Electric",
+      "date": "2026-08-14",
+      "close": 306.4,
+      "ema20": 291.489,
+      "ema50": 280.984,
+      "ema200": 259.47,
+      "rsi14": 66.3,
+      "atr14": 7.468,
+      "atr_pct": 2.44,
+      "atr_rising": false,
+      "vol_ratio": 0.64,
+      "high_52w": 312.3,
+      "dist_52w_pct": -1.89,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 75.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-03-20",
+          "low": 233.496,
+          "high": 244.081,
+          "close": 233.496,
+          "vol_ratio": 2.35
+        },
+        {
+          "date": "2025-07-31",
+          "low": 224.733,
+          "high": 237.533,
+          "close": 224.733,
+          "vol_ratio": 2.2
+        },
+        {
+          "date": "2025-09-19",
+          "low": 227.146,
+          "high": 230.247,
+          "close": 227.539,
+          "vol_ratio": 2.3
+        }
+      ],
+      "zones_count": 6
+    },
+    {
       "ticker": "AIR.PA",
       "nom": "Airbus",
-      "date": "2026-08-13",
-      "close": 212.9,
-      "ema20": 208.306,
-      "ema50": 199.341,
-      "ema200": 187.055,
-      "rsi14": 60.2,
-      "atr14": 4.677,
-      "atr_pct": 2.2,
+      "date": "2026-08-14",
+      "close": 215.4,
+      "ema20": 208.981,
+      "ema50": 199.97,
+      "ema200": 187.306,
+      "rsi14": 62.9,
+      "atr14": 4.604,
+      "atr_pct": 2.14,
       "atr_rising": false,
-      "vol_ratio": 0.6,
+      "vol_ratio": 0.58,
       "high_52w": 217.285,
-      "dist_52w_pct": -2.02,
+      "dist_52w_pct": -0.87,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -889,18 +693,18 @@
     {
       "ticker": "SAF.PA",
       "nom": "Safran",
-      "date": "2026-08-13",
-      "close": 358.0,
-      "ema20": 348.615,
-      "ema50": 334.674,
-      "ema200": 308.591,
-      "rsi14": 61.5,
-      "atr14": 8.584,
-      "atr_pct": 2.4,
+      "date": "2026-08-14",
+      "close": 360.5,
+      "ema20": 349.747,
+      "ema50": 335.687,
+      "ema200": 309.111,
+      "rsi14": 63.1,
+      "atr14": 8.314,
+      "atr_pct": 2.31,
       "atr_rising": false,
-      "vol_ratio": 0.57,
+      "vol_ratio": 0.58,
       "high_52w": 366.5,
-      "dist_52w_pct": -2.32,
+      "dist_52w_pct": -1.64,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -938,18 +742,18 @@
     {
       "ticker": "BNP.PA",
       "nom": "BNP Paribas",
-      "date": "2026-08-13",
-      "close": 112.4,
-      "ema20": 109.202,
-      "ema50": 103.949,
-      "ema200": 90.543,
-      "rsi14": 68.6,
-      "atr14": 1.962,
-      "atr_pct": 1.75,
+      "date": "2026-08-14",
+      "close": 112.1,
+      "ema20": 109.252,
+      "ema50": 103.898,
+      "ema200": 90.423,
+      "rsi14": 66.8,
+      "atr14": 1.988,
+      "atr_pct": 1.77,
       "atr_rising": false,
-      "vol_ratio": 0.75,
+      "vol_ratio": 0.54,
       "high_52w": 113.82,
-      "dist_52w_pct": -1.25,
+      "dist_52w_pct": -1.51,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -985,20 +789,69 @@
       "zones_count": 12
     },
     {
+      "ticker": "CS.PA",
+      "nom": "AXA",
+      "date": "2026-08-14",
+      "close": 45.05,
+      "ema20": 44.72,
+      "ema50": 43.631,
+      "ema200": 40.214,
+      "rsi14": 60.0,
+      "atr14": 0.558,
+      "atr_pct": 1.24,
+      "atr_rising": false,
+      "vol_ratio": 0.63,
+      "high_52w": 45.66,
+      "dist_52w_pct": -1.34,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 75.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2025-06-20",
+          "low": 39.409,
+          "high": 40.456,
+          "close": 40.192,
+          "vol_ratio": 3.24
+        },
+        {
+          "date": "2026-05-29",
+          "low": 39.54,
+          "high": 40.1,
+          "close": 39.73,
+          "vol_ratio": 2.41
+        },
+        {
+          "date": "2026-02-27",
+          "low": 38.475,
+          "high": 39.258,
+          "close": 39.116,
+          "vol_ratio": 2.67
+        }
+      ],
+      "zones_count": 13
+    },
+    {
       "ticker": "GLE.PA",
       "nom": "Societe Generale",
-      "date": "2026-08-13",
-      "close": 82.87,
-      "ema20": 80.883,
-      "ema50": 77.483,
-      "ema200": 68.661,
-      "rsi14": 62.8,
-      "atr14": 1.801,
-      "atr_pct": 2.17,
+      "date": "2026-08-14",
+      "close": 82.36,
+      "ema20": 81.024,
+      "ema50": 77.674,
+      "ema200": 68.801,
+      "rsi14": 60.1,
+      "atr14": 1.73,
+      "atr_pct": 2.1,
       "atr_rising": false,
       "vol_ratio": 0.84,
       "high_52w": 84.82,
-      "dist_52w_pct": -2.3,
+      "dist_52w_pct": -2.9,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1036,18 +889,18 @@
     {
       "ticker": "GET.PA",
       "nom": "Getlink",
-      "date": "2026-08-13",
-      "close": 18.69,
-      "ema20": 18.583,
-      "ema50": 18.483,
-      "ema200": 17.382,
-      "rsi14": 55.2,
+      "date": "2026-08-14",
+      "close": 18.81,
+      "ema20": 18.606,
+      "ema50": 18.486,
+      "ema200": 17.371,
+      "rsi14": 59.0,
       "atr14": 0.24,
-      "atr_pct": 1.29,
+      "atr_pct": 1.28,
       "atr_rising": false,
-      "vol_ratio": 0.65,
+      "vol_ratio": 0.82,
       "high_52w": 19.06,
-      "dist_52w_pct": -1.94,
+      "dist_52w_pct": -1.31,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1085,18 +938,18 @@
     {
       "ticker": "SOP.PA",
       "nom": "Sopra Steria",
-      "date": "2026-08-13",
-      "close": 181.9,
-      "ema20": 176.733,
-      "ema50": 161.894,
-      "ema200": 146.439,
-      "rsi14": 59.3,
-      "atr14": 6.872,
-      "atr_pct": 3.78,
+      "date": "2026-08-14",
+      "close": 184.9,
+      "ema20": 176.583,
+      "ema50": 161.701,
+      "ema200": 146.365,
+      "rsi14": 64.3,
+      "atr14": 6.762,
+      "atr_pct": 3.66,
       "atr_rising": true,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.51,
       "high_52w": 202.2,
-      "dist_52w_pct": -10.04,
+      "dist_52w_pct": -8.56,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1104,8 +957,8 @@
         "near_ema200": false
       },
       "momentum_score": 75.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
           "date": "2025-07-25",
@@ -1134,18 +987,18 @@
     {
       "ticker": "NK.PA",
       "nom": "Imerys",
-      "date": "2026-08-13",
-      "close": 23.8,
-      "ema20": 23.32,
-      "ema50": 22.594,
-      "ema200": 22.577,
-      "rsi14": 59.9,
-      "atr14": 0.576,
-      "atr_pct": 2.42,
+      "date": "2026-08-14",
+      "close": 23.98,
+      "ema20": 23.323,
+      "ema50": 22.601,
+      "ema200": 22.59,
+      "rsi14": 62.7,
+      "atr14": 0.548,
+      "atr_pct": 2.28,
       "atr_rising": true,
-      "vol_ratio": 0.86,
+      "vol_ratio": 0.68,
       "high_52w": 27.571,
-      "dist_52w_pct": -13.68,
+      "dist_52w_pct": -13.03,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1153,8 +1006,8 @@
         "near_ema200": false
       },
       "momentum_score": 75.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
           "date": "2026-01-09",
@@ -1168,7 +1021,7 @@
           "low": 22.31,
           "high": 24.8,
           "close": 23.84,
-          "vol_ratio": 4.17
+          "vol_ratio": 4.11
         },
         {
           "date": "2026-06-15",
@@ -1183,18 +1036,18 @@
     {
       "ticker": "SW.PA",
       "nom": "Sodexo",
-      "date": "2026-08-13",
-      "close": 57.3,
-      "ema20": 56.175,
-      "ema50": 53.511,
-      "ema200": 49.344,
-      "rsi14": 61.7,
-      "atr14": 1.062,
-      "atr_pct": 1.85,
+      "date": "2026-08-14",
+      "close": 56.8,
+      "ema20": 56.235,
+      "ema50": 53.64,
+      "ema200": 49.442,
+      "rsi14": 57.9,
+      "atr14": 1.06,
+      "atr_pct": 1.87,
       "atr_rising": false,
-      "vol_ratio": 0.94,
+      "vol_ratio": 1.0,
       "high_52w": 58.4,
-      "dist_52w_pct": -1.88,
+      "dist_52w_pct": -2.74,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1206,18 +1059,18 @@
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
-          "date": "2025-03-20",
-          "low": 54.137,
-          "high": 60.356,
-          "close": 56.681,
-          "vol_ratio": 5.3
-        },
-        {
           "date": "2025-03-21",
           "low": 55.456,
           "high": 58.048,
           "close": 57.529,
           "vol_ratio": 3.16
+        },
+        {
+          "date": "2025-03-20",
+          "low": 54.137,
+          "high": 60.356,
+          "close": 56.681,
+          "vol_ratio": 5.3
         },
         {
           "date": "2026-07-02",
@@ -1230,20 +1083,20 @@
       "zones_count": 14
     },
     {
-      "ticker": "ATE.PA",
-      "nom": "Alten",
-      "date": "2026-08-13",
-      "close": 72.95,
-      "ema20": 70.088,
-      "ema50": 64.527,
-      "ema200": 63.383,
-      "rsi14": 60.4,
-      "atr14": 2.663,
-      "atr_pct": 3.65,
-      "atr_rising": true,
-      "vol_ratio": 0.62,
-      "high_52w": 81.812,
-      "dist_52w_pct": -10.83,
+      "ticker": "COFA.PA",
+      "nom": "Coface",
+      "date": "2026-08-14",
+      "close": 16.06,
+      "ema20": 15.944,
+      "ema50": 15.625,
+      "ema200": 14.896,
+      "rsi14": 57.8,
+      "atr14": 0.22,
+      "atr_pct": 1.37,
+      "atr_rising": false,
+      "vol_ratio": 0.55,
+      "high_52w": 16.39,
+      "dist_52w_pct": -2.01,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1254,6 +1107,160 @@
       "phase": "momentum",
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
+        {
+          "date": "2025-07-21",
+          "low": 14.724,
+          "high": 15.481,
+          "close": 14.797,
+          "vol_ratio": 2.02
+        },
+        {
+          "date": "2026-05-13",
+          "low": 14.853,
+          "high": 15.241,
+          "close": 14.964,
+          "vol_ratio": 2.41
+        },
+        {
+          "date": "2025-08-26",
+          "low": 14.557,
+          "high": 14.964,
+          "close": 14.659,
+          "vol_ratio": 3.23
+        }
+      ],
+      "zones_count": 13
+    },
+    {
+      "ticker": "SCR.PA",
+      "nom": "Scor SE",
+      "date": "2026-08-14",
+      "close": 34.58,
+      "ema20": 33.755,
+      "ema50": 32.711,
+      "ema200": 29.854,
+      "rsi14": 65.0,
+      "atr14": 0.588,
+      "atr_pct": 1.7,
+      "atr_rising": false,
+      "vol_ratio": 0.48,
+      "high_52w": 35.3,
+      "dist_52w_pct": -2.04,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 75.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-06-19",
+          "low": 31.1,
+          "high": 31.44,
+          "close": 31.44,
+          "vol_ratio": 2.1
+        },
+        {
+          "date": "2026-03-20",
+          "low": 28.391,
+          "high": 29.143,
+          "close": 28.485,
+          "vol_ratio": 4.96
+        },
+        {
+          "date": "2026-03-04",
+          "low": 27.282,
+          "high": 28.842,
+          "close": 27.977,
+          "vol_ratio": 2.14
+        }
+      ],
+      "zones_count": 13
+    },
+    {
+      "ticker": "IPS.PA",
+      "nom": "Ipsos",
+      "date": "2026-08-14",
+      "close": 39.38,
+      "ema20": 38.52,
+      "ema50": 37.068,
+      "ema200": 35.038,
+      "rsi14": 56.5,
+      "atr14": 1.261,
+      "atr_pct": 3.2,
+      "atr_rising": true,
+      "vol_ratio": 0.92,
+      "high_52w": 42.98,
+      "dist_52w_pct": -8.38,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 75.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2025-07-24",
+          "low": 37.704,
+          "high": 41.191,
+          "close": 41.191,
+          "vol_ratio": 3.43
+        },
+        {
+          "date": "2025-06-20",
+          "low": 39.083,
+          "high": 39.517,
+          "close": 39.426,
+          "vol_ratio": 3.09
+        },
+        {
+          "date": "2026-07-23",
+          "low": 36.46,
+          "high": 41.04,
+          "close": 39.54,
+          "vol_ratio": 4.46
+        }
+      ],
+      "zones_count": 18
+    },
+    {
+      "ticker": "ATE.PA",
+      "nom": "Alten",
+      "date": "2026-08-14",
+      "close": 74.0,
+      "ema20": 70.461,
+      "ema50": 64.898,
+      "ema200": 63.515,
+      "rsi14": 62.2,
+      "atr14": 2.623,
+      "atr_pct": 3.54,
+      "atr_rising": true,
+      "vol_ratio": 0.49,
+      "high_52w": 81.812,
+      "dist_52w_pct": -9.55,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 75.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2025-04-07",
+          "low": 70.984,
+          "high": 78.95,
+          "close": 75.086,
+          "vol_ratio": 2.39
+        },
         {
           "date": "2025-12-19",
           "low": 71.927,
@@ -1267,81 +1274,25 @@
           "high": 74.751,
           "close": 71.294,
           "vol_ratio": 2.01
-        },
-        {
-          "date": "2025-12-18",
-          "low": 70.855,
-          "high": 73.339,
-          "close": 72.56,
-          "vol_ratio": 2.39
         }
       ],
       "zones_count": 20
     },
     {
-      "ticker": "SU.PA",
-      "nom": "Schneider Electric",
-      "date": "2026-08-13",
-      "close": 309.25,
-      "ema20": 290.582,
-      "ema50": 280.367,
-      "ema200": 259.367,
-      "rsi14": 70.4,
-      "atr14": 7.788,
-      "atr_pct": 2.52,
-      "atr_rising": true,
-      "vol_ratio": 0.73,
-      "high_52w": 312.3,
-      "dist_52w_pct": -0.98,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 73.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-03-20",
-          "low": 233.496,
-          "high": 244.081,
-          "close": 233.496,
-          "vol_ratio": 2.35
-        },
-        {
-          "date": "2025-07-31",
-          "low": 224.733,
-          "high": 237.533,
-          "close": 224.733,
-          "vol_ratio": 2.2
-        },
-        {
-          "date": "2025-09-19",
-          "low": 227.146,
-          "high": 230.247,
-          "close": 227.539,
-          "vol_ratio": 2.3
-        }
-      ],
-      "zones_count": 6
-    },
-    {
       "ticker": "ACA.PA",
       "nom": "Credit Agricole",
-      "date": "2026-08-13",
-      "close": 20.1,
-      "ema20": 19.137,
-      "ema50": 18.213,
-      "ema200": 16.722,
-      "rsi14": 77.9,
-      "atr14": 0.316,
-      "atr_pct": 1.57,
+      "date": "2026-08-14",
+      "close": 20.2,
+      "ema20": 19.19,
+      "ema50": 18.227,
+      "ema200": 16.719,
+      "rsi14": 78.3,
+      "atr14": 0.305,
+      "atr_pct": 1.51,
       "atr_rising": true,
-      "vol_ratio": 0.87,
+      "vol_ratio": 0.69,
       "high_52w": 20.4,
-      "dist_52w_pct": -1.47,
+      "dist_52w_pct": -0.98,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1377,20 +1328,20 @@
       "zones_count": 11
     },
     {
-      "ticker": "CS.PA",
-      "nom": "AXA",
-      "date": "2026-08-13",
-      "close": 44.64,
-      "ema20": 44.685,
-      "ema50": 43.573,
-      "ema200": 40.174,
-      "rsi14": 53.3,
-      "atr14": 0.563,
-      "atr_pct": 1.26,
-      "atr_rising": true,
-      "vol_ratio": 0.59,
-      "high_52w": 45.66,
-      "dist_52w_pct": -2.23,
+      "ticker": "TTE.PA",
+      "nom": "TotalEnergies",
+      "date": "2026-08-14",
+      "close": 75.78,
+      "ema20": 74.473,
+      "ema50": 73.396,
+      "ema200": 67.705,
+      "rsi14": 57.8,
+      "atr14": 1.647,
+      "atr_pct": 2.17,
+      "atr_rising": false,
+      "vol_ratio": 0.73,
+      "high_52w": 80.249,
+      "dist_52w_pct": -5.57,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1398,48 +1349,48 @@
         "near_ema200": false
       },
       "momentum_score": 70.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
-          "date": "2025-06-20",
-          "low": 39.409,
-          "high": 40.456,
-          "close": 40.192,
-          "vol_ratio": 3.24
-        },
-        {
           "date": "2026-05-29",
-          "low": 39.54,
-          "high": 40.1,
-          "close": 39.73,
-          "vol_ratio": 2.41
+          "low": 73.789,
+          "high": 74.738,
+          "close": 74.254,
+          "vol_ratio": 2.48
         },
         {
-          "date": "2026-02-27",
-          "low": 38.475,
-          "high": 39.258,
-          "close": 39.116,
-          "vol_ratio": 2.67
+          "date": "2026-06-19",
+          "low": 69.868,
+          "high": 70.787,
+          "close": 70.194,
+          "vol_ratio": 2.99
+        },
+        {
+          "date": "2026-03-02",
+          "low": 67.396,
+          "high": 71.344,
+          "close": 67.787,
+          "vol_ratio": 2.81
         }
       ],
       "zones_count": 13
     },
     {
-      "ticker": "EDEN.PA",
-      "nom": "Edenred",
-      "date": "2026-08-13",
-      "close": 27.97,
-      "ema20": 27.501,
-      "ema50": 25.323,
-      "ema200": 21.875,
-      "rsi14": 59.4,
-      "atr14": 0.773,
-      "atr_pct": 2.76,
+      "ticker": "ML.PA",
+      "nom": "Michelin",
+      "date": "2026-08-14",
+      "close": 34.63,
+      "ema20": 34.511,
+      "ema50": 33.781,
+      "ema200": 31.362,
+      "rsi14": 53.4,
+      "atr14": 0.626,
+      "atr_pct": 1.81,
       "atr_rising": false,
-      "vol_ratio": 0.6,
-      "high_52w": 29.5,
-      "dist_52w_pct": -5.19,
+      "vol_ratio": 0.57,
+      "high_52w": 35.72,
+      "dist_52w_pct": -3.05,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1447,8 +1398,57 @@
         "near_ema200": false
       },
       "momentum_score": 70.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-05-29",
+          "low": 31.18,
+          "high": 31.71,
+          "close": 31.51,
+          "vol_ratio": 3.22
+        },
+        {
+          "date": "2025-02-13",
+          "low": 30.854,
+          "high": 31.617,
+          "close": 31.305,
+          "vol_ratio": 2.25
+        },
+        {
+          "date": "2025-02-28",
+          "low": 30.588,
+          "high": 31.599,
+          "close": 31.397,
+          "vol_ratio": 2.87
+        }
+      ],
+      "zones_count": 10
+    },
+    {
+      "ticker": "EDEN.PA",
+      "nom": "Edenred",
+      "date": "2026-08-14",
+      "close": 28.58,
+      "ema20": 27.604,
+      "ema50": 25.451,
+      "ema200": 21.946,
+      "rsi14": 63.5,
+      "atr14": 0.775,
+      "atr_pct": 2.71,
+      "atr_rising": false,
+      "vol_ratio": 0.43,
+      "high_52w": 29.5,
+      "dist_52w_pct": -3.12,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 70.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
           "date": "2025-02-18",
@@ -1477,18 +1477,18 @@
     {
       "ticker": "ERF.PA",
       "nom": "Eurofins Scientific",
-      "date": "2026-08-13",
-      "close": 70.1,
-      "ema20": 69.015,
-      "ema50": 67.463,
-      "ema200": 64.073,
-      "rsi14": 58.9,
-      "atr14": 1.389,
-      "atr_pct": 1.98,
+      "date": "2026-08-14",
+      "close": 70.44,
+      "ema20": 69.195,
+      "ema50": 67.717,
+      "ema200": 64.23,
+      "rsi14": 60.2,
+      "atr14": 1.341,
+      "atr_pct": 1.9,
       "atr_rising": false,
-      "vol_ratio": 0.56,
+      "vol_ratio": 0.6,
       "high_52w": 73.45,
-      "dist_52w_pct": -4.56,
+      "dist_52w_pct": -4.1,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1526,18 +1526,18 @@
     {
       "ticker": "RCO.PA",
       "nom": "Remy Cointreau",
-      "date": "2026-08-13",
-      "close": 47.2,
-      "ema20": 45.971,
-      "ema50": 44.316,
-      "ema200": 42.367,
-      "rsi14": 58.4,
-      "atr14": 1.465,
-      "atr_pct": 3.1,
+      "date": "2026-08-14",
+      "close": 47.76,
+      "ema20": 45.995,
+      "ema50": 44.26,
+      "ema200": 42.324,
+      "rsi14": 60.9,
+      "atr14": 1.462,
+      "atr_pct": 3.06,
       "atr_rising": true,
-      "vol_ratio": 0.71,
+      "vol_ratio": 0.5,
       "high_52w": 56.216,
-      "dist_52w_pct": -16.04,
+      "dist_52w_pct": -15.04,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1575,23 +1575,23 @@
     {
       "ticker": "ICAD.PA",
       "nom": "Icade",
-      "date": "2026-08-13",
-      "close": 19.31,
-      "ema20": 19.193,
-      "ema50": 19.042,
-      "ema200": 18.909,
-      "rsi14": 53.7,
-      "atr14": 0.358,
-      "atr_pct": 1.86,
+      "date": "2026-08-14",
+      "close": 19.26,
+      "ema20": 19.19,
+      "ema50": 19.035,
+      "ema200": 18.899,
+      "rsi14": 52.9,
+      "atr14": 0.345,
+      "atr_pct": 1.79,
       "atr_rising": false,
-      "vol_ratio": 0.73,
-      "high_52w": 20.667,
-      "dist_52w_pct": -6.56,
+      "vol_ratio": 0.74,
+      "high_52w": 20.902,
+      "dist_52w_pct": -7.86,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
-        "near_ema200": false
+        "near_ema200": true
       },
       "momentum_score": 70.0,
       "phase": "momentum",
@@ -1622,69 +1622,20 @@
       "zones_count": 12
     },
     {
-      "ticker": "SCR.PA",
-      "nom": "Scor SE",
-      "date": "2026-08-13",
-      "close": 34.08,
-      "ema20": 33.745,
-      "ema50": 32.735,
-      "ema200": 29.895,
-      "rsi14": 59.1,
-      "atr14": 0.582,
-      "atr_pct": 1.71,
-      "atr_rising": false,
-      "vol_ratio": 0.52,
-      "high_52w": 35.3,
-      "dist_52w_pct": -3.46,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 70.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2026-06-19",
-          "low": 31.1,
-          "high": 31.44,
-          "close": 31.44,
-          "vol_ratio": 2.1
-        },
-        {
-          "date": "2026-03-20",
-          "low": 28.391,
-          "high": 29.143,
-          "close": 28.485,
-          "vol_ratio": 4.96
-        },
-        {
-          "date": "2026-03-04",
-          "low": 27.282,
-          "high": 28.842,
-          "close": 27.977,
-          "vol_ratio": 2.14
-        }
-      ],
-      "zones_count": 13
-    },
-    {
       "ticker": "VCT.PA",
       "nom": "Vicat",
-      "date": "2026-08-13",
-      "close": 65.2,
-      "ema20": 64.663,
-      "ema50": 63.902,
-      "ema200": 63.316,
-      "rsi14": 53.0,
-      "atr14": 2.007,
-      "atr_pct": 3.08,
+      "date": "2026-08-14",
+      "close": 65.3,
+      "ema20": 64.724,
+      "ema50": 63.957,
+      "ema200": 63.336,
+      "rsi14": 53.4,
+      "atr14": 1.913,
+      "atr_pct": 2.93,
       "atr_rising": true,
-      "vol_ratio": 0.72,
+      "vol_ratio": 0.69,
       "high_52w": 79.065,
-      "dist_52w_pct": -17.54,
+      "dist_52w_pct": -17.41,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1722,18 +1673,18 @@
     {
       "ticker": "MMT.PA",
       "nom": "M6 Metropole Television",
-      "date": "2026-08-13",
-      "close": 12.06,
-      "ema20": 12.001,
-      "ema50": 11.953,
-      "ema200": 11.465,
-      "rsi14": 52.2,
-      "atr14": 0.201,
-      "atr_pct": 1.67,
+      "date": "2026-08-14",
+      "close": 12.04,
+      "ema20": 12.005,
+      "ema50": 11.96,
+      "ema200": 11.482,
+      "rsi14": 51.3,
+      "atr14": 0.198,
+      "atr_pct": 1.64,
       "atr_rising": false,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.91,
       "high_52w": 13.04,
-      "dist_52w_pct": -7.52,
+      "dist_52w_pct": -7.67,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1769,69 +1720,118 @@
       "zones_count": 19
     },
     {
-      "ticker": "ADP.PA",
-      "nom": "Aeroports de Paris",
-      "date": "2026-08-13",
-      "close": 113.7,
-      "ema20": 113.866,
-      "ema50": 111.728,
-      "ema200": 109.452,
-      "rsi14": 51.1,
-      "atr14": 2.848,
-      "atr_pct": 2.5,
-      "atr_rising": true,
-      "vol_ratio": 1.29,
-      "high_52w": 129.409,
-      "dist_52w_pct": -12.14,
+      "ticker": "ARG.PA",
+      "nom": "Argan",
+      "date": "2026-08-14",
+      "close": 72.9,
+      "ema20": 71.815,
+      "ema50": 67.618,
+      "ema200": 62.984,
+      "rsi14": 62.8,
+      "atr14": 1.421,
+      "atr_pct": 1.95,
+      "atr_rising": false,
+      "vol_ratio": 0.77,
+      "high_52w": 78.2,
+      "dist_52w_pct": -6.78,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": false
       },
-      "momentum_score": 67.0,
+      "momentum_score": 70.0,
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
+      "zones_top3": [
+        {
+          "date": "2026-07-24",
+          "low": 69.9,
+          "high": 76.5,
+          "close": 75.2,
+          "vol_ratio": 8.74
+        },
+        {
+          "date": "2026-07-27",
+          "low": 75.1,
+          "high": 77.1,
+          "close": 76.9,
+          "vol_ratio": 2.57
+        },
+        {
+          "date": "2025-09-19",
+          "low": 61.231,
+          "high": 63.115,
+          "close": 63.115,
+          "vol_ratio": 4.3
+        }
+      ],
+      "zones_count": 14
+    },
+    {
+      "ticker": "SGO.PA",
+      "nom": "Saint-Gobain",
+      "date": "2026-08-14",
+      "close": 83.94,
+      "ema20": 81.343,
+      "ema50": 78.866,
+      "ema200": 79.574,
+      "rsi14": 61.9,
+      "atr14": 2.091,
+      "atr_pct": 2.49,
+      "atr_rising": true,
+      "vol_ratio": 1.09,
+      "high_52w": 97.751,
+      "dist_52w_pct": -14.13,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 69.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
         {
-          "date": "2025-12-18",
-          "low": 109.21,
-          "high": 116.942,
-          "close": 109.21,
-          "vol_ratio": 3.41
+          "date": "2025-12-19",
+          "low": 83.517,
+          "high": 85.574,
+          "close": 83.517,
+          "vol_ratio": 2.18
         },
         {
-          "date": "2026-02-19",
-          "low": 114.042,
-          "high": 117.908,
-          "close": 116.362,
-          "vol_ratio": 2.16
+          "date": "2026-07-31",
+          "low": 78.58,
+          "high": 83.48,
+          "close": 81.28,
+          "vol_ratio": 2.15
         },
         {
-          "date": "2026-05-29",
-          "low": 109.21,
-          "high": 112.109,
-          "close": 111.143,
-          "vol_ratio": 2.22
+          "date": "2025-08-01",
+          "low": 88.272,
+          "high": 94.403,
+          "close": 88.272,
+          "vol_ratio": 3.23
         }
       ],
-      "zones_count": 17
+      "zones_count": 7
     },
     {
       "ticker": "SK.PA",
       "nom": "SEB",
-      "date": "2026-08-13",
-      "close": 59.6,
-      "ema20": 56.962,
-      "ema50": 53.614,
-      "ema200": 52.055,
-      "rsi14": 62.5,
-      "atr14": 1.903,
-      "atr_pct": 3.19,
+      "date": "2026-08-14",
+      "close": 58.6,
+      "ema20": 57.118,
+      "ema50": 53.809,
+      "ema200": 52.115,
+      "rsi14": 58.6,
+      "atr14": 1.931,
+      "atr_pct": 3.3,
       "atr_rising": false,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.52,
       "high_52w": 64.867,
-      "dist_52w_pct": -8.12,
+      "dist_52w_pct": -9.66,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1850,86 +1850,37 @@
           "vol_ratio": 2.77
         },
         {
+          "date": "2026-07-28",
+          "low": 54.2,
+          "high": 57.55,
+          "close": 57.55,
+          "vol_ratio": 2.04
+        },
+        {
           "date": "2025-08-26",
           "low": 60.186,
           "high": 62.645,
           "close": 60.186,
           "vol_ratio": 2.13
-        },
-        {
-          "date": "2025-07-24",
-          "low": 59.099,
-          "high": 64.016,
-          "close": 63.354,
-          "vol_ratio": 5.87
         }
       ],
       "zones_count": 18
     },
     {
-      "ticker": "COV.PA",
-      "nom": "Covivio",
-      "date": "2026-08-13",
-      "close": 52.6,
-      "ema20": 52.536,
-      "ema50": 52.381,
-      "ema200": 51.925,
-      "rsi14": 51.2,
-      "atr14": 0.875,
-      "atr_pct": 1.66,
-      "atr_rising": false,
-      "vol_ratio": 0.77,
-      "high_52w": 58.605,
-      "dist_52w_pct": -10.25,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 65.0,
-      "phase": "momentum",
-      "phase_label": "Phase 2 - Momentum haussier",
-      "zones_top3": [
-        {
-          "date": "2025-09-19",
-          "low": 52.446,
-          "high": 53.146,
-          "close": 52.912,
-          "vol_ratio": 4.42
-        },
-        {
-          "date": "2026-03-20",
-          "low": 51.456,
-          "high": 53.181,
-          "close": 51.456,
-          "vol_ratio": 8.37
-        },
-        {
-          "date": "2026-05-29",
-          "low": 52.558,
-          "high": 53.516,
-          "close": 52.942,
-          "vol_ratio": 7.9
-        }
-      ],
-      "zones_count": 14
-    },
-    {
       "ticker": "AM.PA",
       "nom": "Dassault Aviation",
-      "date": "2026-08-13",
-      "close": 314.2,
-      "ema20": 306.977,
-      "ema50": 301.358,
-      "ema200": 297.019,
-      "rsi14": 59.3,
-      "atr14": 7.385,
-      "atr_pct": 2.35,
+      "date": "2026-08-14",
+      "close": 318.8,
+      "ema20": 308.151,
+      "ema50": 302.221,
+      "ema200": 297.333,
+      "rsi14": 62.3,
+      "atr14": 7.301,
+      "atr_pct": 2.29,
       "atr_rising": false,
-      "vol_ratio": 0.67,
+      "vol_ratio": 0.53,
       "high_52w": 355.715,
-      "dist_52w_pct": -11.67,
+      "dist_52w_pct": -10.38,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1940,6 +1891,13 @@
       "phase": "momentum",
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
+        {
+          "date": "2026-01-19",
+          "low": 314.421,
+          "high": 324.646,
+          "close": 323.467,
+          "vol_ratio": 2.13
+        },
         {
           "date": "2025-05-30",
           "low": 311.865,
@@ -1952,14 +1910,7 @@
           "low": 304.6,
           "high": 319.0,
           "close": 304.6,
-          "vol_ratio": 2.38
-        },
-        {
-          "date": "2026-01-19",
-          "low": 314.421,
-          "high": 324.646,
-          "close": 323.467,
-          "vol_ratio": 2.13
+          "vol_ratio": 2.42
         }
       ],
       "zones_count": 20
@@ -1967,18 +1918,18 @@
     {
       "ticker": "WLN.PA",
       "nom": "Worldline",
-      "date": "2026-08-13",
-      "close": 12.342,
-      "ema20": 11.636,
-      "ema50": 11.339,
-      "ema200": 16.827,
-      "rsi14": 57.7,
-      "atr14": 0.754,
-      "atr_pct": 6.11,
+      "date": "2026-08-14",
+      "close": 12.762,
+      "ema20": 11.68,
+      "ema50": 11.379,
+      "ema200": 16.919,
+      "rsi14": 60.8,
+      "atr14": 0.774,
+      "atr_pct": 6.06,
       "atr_rising": true,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.05,
       "high_52w": 34.615,
-      "dist_52w_pct": -64.35,
+      "dist_52w_pct": -63.13,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -1986,22 +1937,22 @@
         "near_ema200": false
       },
       "momentum_score": 64.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
+        {
+          "date": "2026-08-03",
+          "low": 12.396,
+          "high": 13.94,
+          "close": 13.462,
+          "vol_ratio": 2.4
+        },
         {
           "date": "2026-07-31",
           "low": 10.84,
           "high": 12.6,
           "close": 12.188,
           "vol_ratio": 3.34
-        },
-        {
-          "date": "2026-08-03",
-          "low": 12.396,
-          "high": 13.94,
-          "close": 13.462,
-          "vol_ratio": 2.18
         },
         {
           "date": "2026-04-07",
@@ -2016,18 +1967,18 @@
     {
       "ticker": "HO.PA",
       "nom": "Thales",
-      "date": "2026-08-13",
-      "close": 268.6,
-      "ema20": 253.348,
-      "ema50": 242.678,
-      "ema200": 237.833,
-      "rsi14": 72.1,
-      "atr14": 6.509,
+      "date": "2026-08-14",
+      "close": 270.4,
+      "ema20": 254.596,
+      "ema50": 243.527,
+      "ema200": 238.204,
+      "rsi14": 72.3,
+      "atr14": 6.532,
       "atr_pct": 2.42,
       "atr_rising": false,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.67,
       "high_52w": 274.352,
-      "dist_52w_pct": -2.1,
+      "dist_52w_pct": -1.44,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2065,20 +2016,20 @@
     {
       "ticker": "PUB.PA",
       "nom": "Publicis Groupe",
-      "date": "2026-08-13",
-      "close": 99.98,
-      "ema20": 94.623,
-      "ema50": 89.442,
-      "ema200": 82.513,
-      "rsi14": 70.6,
-      "atr14": 2.331,
-      "atr_pct": 2.33,
+      "date": "2026-08-14",
+      "close": 101.8,
+      "ema20": 95.146,
+      "ema50": 89.645,
+      "ema200": 82.55,
+      "rsi14": 74.2,
+      "atr14": 2.412,
+      "atr_pct": 2.37,
       "atr_rising": false,
-      "vol_ratio": 0.68,
-      "high_52w": 100.85,
-      "dist_52w_pct": -0.86,
+      "vol_ratio": 0.99,
+      "high_52w": 103.1,
+      "dist_52w_pct": -1.26,
       "signals": {
-        "breakout_52w": false,
+        "breakout_52w": true,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": false
@@ -2112,167 +2063,20 @@
       "zones_count": 12
     },
     {
-      "ticker": "SAN.PA",
-      "nom": "Sanofi",
-      "date": "2026-08-13",
-      "close": 76.43,
-      "ema20": 75.722,
-      "ema50": 75.665,
-      "ema200": 77.013,
-      "rsi14": 53.0,
-      "atr14": 1.843,
-      "atr_pct": 2.41,
-      "atr_rising": true,
-      "vol_ratio": 0.79,
-      "high_52w": 86.324,
-      "dist_52w_pct": -11.46,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 62.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 74.97,
-          "high": 76.93,
-          "close": 75.29,
-          "vol_ratio": 2.6
-        },
-        {
-          "date": "2026-02-12",
-          "low": 73.245,
-          "high": 78.558,
-          "close": 74.912,
-          "vol_ratio": 2.47
-        },
-        {
-          "date": "2026-07-30",
-          "low": 72.07,
-          "high": 79.26,
-          "close": 72.77,
-          "vol_ratio": 3.11
-        }
-      ],
-      "zones_count": 13
-    },
-    {
-      "ticker": "SGO.PA",
-      "nom": "Saint-Gobain",
-      "date": "2026-08-13",
-      "close": 84.14,
-      "ema20": 81.245,
-      "ema50": 78.766,
-      "ema200": 79.512,
-      "rsi14": 63.1,
-      "atr14": 2.132,
-      "atr_pct": 2.53,
-      "atr_rising": true,
-      "vol_ratio": 0.58,
-      "high_52w": 97.751,
-      "dist_52w_pct": -13.92,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 62.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2025-12-19",
-          "low": 83.517,
-          "high": 85.574,
-          "close": 83.517,
-          "vol_ratio": 2.18
-        },
-        {
-          "date": "2026-07-31",
-          "low": 78.58,
-          "high": 83.48,
-          "close": 81.28,
-          "vol_ratio": 2.15
-        },
-        {
-          "date": "2025-08-01",
-          "low": 88.272,
-          "high": 94.403,
-          "close": 88.272,
-          "vol_ratio": 3.23
-        }
-      ],
-      "zones_count": 7
-    },
-    {
-      "ticker": "COFA.PA",
-      "nom": "Coface",
-      "date": "2026-08-13",
-      "close": 15.92,
-      "ema20": 15.932,
-      "ema50": 15.607,
-      "ema200": 14.885,
-      "rsi14": 52.8,
-      "atr14": 0.223,
-      "atr_pct": 1.4,
-      "atr_rising": false,
-      "vol_ratio": 0.66,
-      "high_52w": 16.39,
-      "dist_52w_pct": -2.87,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 60.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2025-07-21",
-          "low": 14.724,
-          "high": 15.481,
-          "close": 14.797,
-          "vol_ratio": 2.02
-        },
-        {
-          "date": "2026-05-13",
-          "low": 14.853,
-          "high": 15.241,
-          "close": 14.964,
-          "vol_ratio": 2.41
-        },
-        {
-          "date": "2025-08-26",
-          "low": 14.557,
-          "high": 14.964,
-          "close": 14.659,
-          "vol_ratio": 3.23
-        }
-      ],
-      "zones_count": 13
-    },
-    {
       "ticker": "SOI.PA",
       "nom": "Soitec",
-      "date": "2026-08-13",
-      "close": 133.2,
-      "ema20": 115.832,
-      "ema50": 114.673,
-      "ema200": 88.512,
-      "rsi14": 64.3,
-      "atr14": 9.458,
-      "atr_pct": 7.1,
+      "date": "2026-08-14",
+      "close": 129.2,
+      "ema20": 117.105,
+      "ema50": 115.242,
+      "ema200": 88.994,
+      "rsi14": 60.6,
+      "atr14": 9.1,
+      "atr_pct": 7.04,
       "atr_rising": false,
-      "vol_ratio": 0.6,
+      "vol_ratio": 0.58,
       "high_52w": 200.5,
-      "dist_52w_pct": -33.57,
+      "dist_52w_pct": -35.56,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2280,8 +2084,8 @@
         "near_ema200": false
       },
       "momentum_score": 60.0,
-      "phase": "extension",
-      "phase_label": "Phase 3 - Extension",
+      "phase": "momentum",
+      "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
         {
           "date": "2026-07-23",
@@ -2310,18 +2114,18 @@
     {
       "ticker": "FR.PA",
       "nom": "Valeo",
-      "date": "2026-08-13",
-      "close": 14.685,
-      "ema20": 14.278,
-      "ema50": 13.669,
-      "ema200": 12.148,
-      "rsi14": 58.9,
-      "atr14": 0.537,
-      "atr_pct": 3.65,
+      "date": "2026-08-14",
+      "close": 14.615,
+      "ema20": 14.267,
+      "ema50": 13.662,
+      "ema200": 12.132,
+      "rsi14": 58.2,
+      "atr14": 0.512,
+      "atr_pct": 3.5,
       "atr_rising": false,
-      "vol_ratio": 0.62,
+      "vol_ratio": 0.54,
       "high_52w": 17.325,
-      "dist_52w_pct": -15.24,
+      "dist_52w_pct": -15.64,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2344,7 +2148,7 @@
           "low": 12.825,
           "high": 14.085,
           "close": 14.055,
-          "vol_ratio": 2.26
+          "vol_ratio": 2.25
         },
         {
           "date": "2026-06-04",
@@ -2359,18 +2163,18 @@
     {
       "ticker": "PLX.PA",
       "nom": "Pluxee",
-      "date": "2026-08-13",
-      "close": 14.67,
-      "ema20": 14.124,
-      "ema50": 13.235,
-      "ema200": 13.083,
-      "rsi14": 63.9,
-      "atr14": 0.41,
-      "atr_pct": 2.8,
+      "date": "2026-08-14",
+      "close": 14.96,
+      "ema20": 14.152,
+      "ema50": 13.226,
+      "ema200": 13.084,
+      "rsi14": 68.0,
+      "atr14": 0.414,
+      "atr_pct": 2.77,
       "atr_rising": false,
-      "vol_ratio": 0.71,
+      "vol_ratio": 0.63,
       "high_52w": 18.78,
-      "dist_52w_pct": -21.89,
+      "dist_52w_pct": -20.34,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2381,6 +2185,13 @@
       "phase": "momentum",
       "phase_label": "Phase 2 - Momentum haussier",
       "zones_top3": [
+        {
+          "date": "2025-09-12",
+          "low": 14.165,
+          "high": 15.836,
+          "close": 14.564,
+          "vol_ratio": 2.56
+        },
         {
           "date": "2025-09-18",
           "low": 14.457,
@@ -2394,130 +2205,25 @@
           "high": 14.515,
           "close": 14.428,
           "vol_ratio": 2.22
-        },
-        {
-          "date": "2025-09-12",
-          "low": 14.165,
-          "high": 15.836,
-          "close": 14.564,
-          "vol_ratio": 2.56
         }
       ],
       "zones_count": 20
-    },
-    {
-      "ticker": "VLA.PA",
-      "nom": "Valneva SE",
-      "date": "2026-08-13",
-      "close": 2.455,
-      "ema20": 2.284,
-      "ema50": 2.331,
-      "ema200": 2.975,
-      "rsi14": 67.5,
-      "atr14": 0.099,
-      "atr_pct": 4.04,
-      "atr_rising": true,
-      "vol_ratio": 1.84,
-      "high_52w": 5.415,
-      "dist_52w_pct": -54.66,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": true,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 60.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-08-11",
-          "low": 2.379,
-          "high": 2.559,
-          "close": 2.48,
-          "vol_ratio": 4.55
-        },
-        {
-          "date": "2026-05-11",
-          "low": 2.42,
-          "high": 2.847,
-          "close": 2.738,
-          "vol_ratio": 3.22
-        },
-        {
-          "date": "2026-03-24",
-          "low": 2.814,
-          "high": 3.066,
-          "close": 2.836,
-          "vol_ratio": 2.44
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "RI.PA",
-      "nom": "Pernod Ricard",
-      "date": "2026-08-13",
-      "close": 68.34,
-      "ema20": 66.986,
-      "ema50": 64.854,
-      "ema200": 68.53,
-      "rsi14": 59.2,
-      "atr14": 1.727,
-      "atr_pct": 2.53,
-      "atr_rising": true,
-      "vol_ratio": 0.76,
-      "high_52w": 100.565,
-      "dist_52w_pct": -32.04,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 57.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 60.913,
-          "high": 62.532,
-          "close": 61.125,
-          "vol_ratio": 2.81
-        },
-        {
-          "date": "2025-11-21",
-          "low": 73.395,
-          "high": 76.821,
-          "close": 76.016,
-          "vol_ratio": 2.07
-        },
-        {
-          "date": "2026-06-19",
-          "low": 60.913,
-          "high": 61.819,
-          "close": 61.819,
-          "vol_ratio": 3.12
-        }
-      ],
-      "zones_count": 10
     },
     {
       "ticker": "CAP.PA",
       "nom": "Capgemini",
-      "date": "2026-08-13",
-      "close": 106.0,
-      "ema20": 102.325,
-      "ema50": 98.808,
-      "ema200": 108.071,
-      "rsi14": 59.3,
-      "atr14": 3.968,
-      "atr_pct": 3.74,
+      "date": "2026-08-14",
+      "close": 108.3,
+      "ema20": 103.176,
+      "ema50": 99.325,
+      "ema200": 107.886,
+      "rsi14": 62.6,
+      "atr14": 3.983,
+      "atr_pct": 3.68,
       "atr_rising": true,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.66,
       "high_52w": 148.28,
-      "dist_52w_pct": -28.51,
+      "dist_52w_pct": -26.96,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2536,37 +2242,37 @@
           "vol_ratio": 2.1
         },
         {
+          "date": "2026-02-04",
+          "low": 112.24,
+          "high": 119.651,
+          "close": 115.388,
+          "vol_ratio": 2.2
+        },
+        {
           "date": "2026-02-12",
           "low": 96.632,
           "high": 102.503,
           "close": 96.632,
           "vol_ratio": 2.12
-        },
-        {
-          "date": "2026-02-13",
-          "low": 96.806,
-          "high": 102.309,
-          "close": 101.582,
-          "vol_ratio": 2.27
         }
       ],
       "zones_count": 15
     },
     {
-      "ticker": "GFC.PA",
-      "nom": "Gecina",
-      "date": "2026-08-13",
-      "close": 74.05,
-      "ema20": 74.398,
-      "ema50": 72.916,
-      "ema200": 72.51,
-      "rsi14": 50.2,
-      "atr14": 1.184,
-      "atr_pct": 1.6,
-      "atr_rising": false,
-      "vol_ratio": 1.13,
-      "high_52w": 81.201,
-      "dist_52w_pct": -8.81,
+      "ticker": "VU.PA",
+      "nom": "VusionGroup",
+      "date": "2026-08-14",
+      "close": 130.9,
+      "ema20": 129.602,
+      "ema50": 128.811,
+      "ema200": 144.87,
+      "rsi14": 52.1,
+      "atr14": 6.55,
+      "atr_pct": 5.0,
+      "atr_rising": true,
+      "vol_ratio": 0.65,
+      "high_52w": 260.366,
+      "dist_52w_pct": -49.72,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -2578,51 +2284,198 @@
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
         {
-          "date": "2025-12-08",
-          "low": 73.012,
-          "high": 73.613,
-          "close": 73.243,
-          "vol_ratio": 2.16
+          "date": "2026-01-22",
+          "low": 126.904,
+          "high": 134.953,
+          "close": 132.27,
+          "vol_ratio": 2.19
         },
         {
-          "date": "2025-04-07",
-          "low": 72.989,
-          "high": 77.75,
-          "close": 74.561,
-          "vol_ratio": 2.38
+          "date": "2026-02-18",
+          "low": 110.208,
+          "high": 153.039,
+          "close": 114.581,
+          "vol_ratio": 4.67
         },
         {
-          "date": "2025-03-06",
-          "low": 74.741,
-          "high": 77.571,
-          "close": 76.493,
-          "vol_ratio": 2.02
+          "date": "2026-04-23",
+          "low": 124.22,
+          "high": 146.083,
+          "close": 146.083,
+          "vol_ratio": 3.25
         }
       ],
-      "zones_count": 13
+      "zones_count": 20
+    },
+    {
+      "ticker": "KER.PA",
+      "nom": "Kering",
+      "date": "2026-08-14",
+      "close": 268.55,
+      "ema20": 270.991,
+      "ema50": 262.854,
+      "ema200": 258.688,
+      "rsi14": 50.2,
+      "atr14": 9.62,
+      "atr_pct": 3.58,
+      "atr_rising": true,
+      "vol_ratio": 0.81,
+      "high_52w": 348.875,
+      "dist_52w_pct": -23.02,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 55.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2025-09-19",
+          "low": 263.922,
+          "high": 271.654,
+          "close": 263.922,
+          "vol_ratio": 2.15
+        },
+        {
+          "date": "2026-04-15",
+          "low": 247.324,
+          "high": 263.641,
+          "close": 251.181,
+          "vol_ratio": 2.34
+        },
+        {
+          "date": "2026-07-29",
+          "low": 271.8,
+          "high": 292.85,
+          "close": 292.85,
+          "vol_ratio": 3.77
+        }
+      ],
+      "zones_count": 10
+    },
+    {
+      "ticker": "AYV.PA",
+      "nom": "Ayvens",
+      "date": "2026-08-14",
+      "close": 11.66,
+      "ema20": 11.667,
+      "ema50": 11.541,
+      "ema200": 10.637,
+      "rsi14": 50.1,
+      "atr14": 0.237,
+      "atr_pct": 2.03,
+      "atr_rising": false,
+      "vol_ratio": 0.86,
+      "high_52w": 12.34,
+      "dist_52w_pct": -5.51,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 55.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-02-04",
+          "low": 11.469,
+          "high": 11.791,
+          "close": 11.744,
+          "vol_ratio": 2.28
+        },
+        {
+          "date": "2026-05-29",
+          "low": 11.33,
+          "high": 11.58,
+          "close": 11.58,
+          "vol_ratio": 6.7
+        },
+        {
+          "date": "2026-07-30",
+          "low": 11.68,
+          "high": 12.34,
+          "close": 12.0,
+          "vol_ratio": 2.94
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "TRI.PA",
+      "nom": "Trigano",
+      "date": "2026-08-14",
+      "close": 158.8,
+      "ema20": 152.377,
+      "ema50": 150.164,
+      "ema200": 150.691,
+      "rsi14": 68.6,
+      "atr14": 3.352,
+      "atr_pct": 2.11,
+      "atr_rising": false,
+      "vol_ratio": 0.87,
+      "high_52w": 176.128,
+      "dist_52w_pct": -9.84,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 52.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-05-07",
+          "low": 155.7,
+          "high": 162.2,
+          "close": 155.7,
+          "vol_ratio": 2.0
+        },
+        {
+          "date": "2025-11-27",
+          "low": 151.797,
+          "high": 168.838,
+          "close": 168.838,
+          "vol_ratio": 7.34
+        },
+        {
+          "date": "2026-03-03",
+          "low": 152.683,
+          "high": 159.185,
+          "close": 155.244,
+          "vol_ratio": 2.26
+        }
+      ],
+      "zones_count": 19
     },
     {
       "ticker": "TFI.PA",
       "nom": "TF1",
-      "date": "2026-08-13",
-      "close": 6.975,
-      "ema20": 6.945,
-      "ema50": 6.87,
-      "ema200": 6.963,
-      "rsi14": 54.5,
-      "atr14": 0.113,
-      "atr_pct": 1.62,
-      "atr_rising": true,
-      "vol_ratio": 0.5,
+      "date": "2026-08-14",
+      "close": 7.045,
+      "ema20": 6.955,
+      "ema50": 6.877,
+      "ema200": 6.967,
+      "rsi14": 59.3,
+      "atr14": 0.114,
+      "atr_pct": 1.61,
+      "atr_rising": false,
+      "vol_ratio": 0.86,
       "high_52w": 8.247,
-      "dist_52w_pct": -15.43,
+      "dist_52w_pct": -14.58,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": true
       },
-      "momentum_score": 57.0,
+      "momentum_score": 52.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
@@ -2651,76 +2504,27 @@
       "zones_count": 15
     },
     {
-      "ticker": "VU.PA",
-      "nom": "VusionGroup",
-      "date": "2026-08-13",
-      "close": 133.3,
-      "ema20": 129.465,
-      "ema50": 128.726,
-      "ema200": 144.986,
-      "rsi14": 55.3,
-      "atr14": 6.7,
-      "atr_pct": 5.03,
-      "atr_rising": true,
-      "vol_ratio": 0.57,
-      "high_52w": 260.366,
-      "dist_52w_pct": -48.8,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 57.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-02-18",
-          "low": 110.208,
-          "high": 153.039,
-          "close": 114.581,
-          "vol_ratio": 4.67
-        },
-        {
-          "date": "2026-04-23",
-          "low": 124.22,
-          "high": 146.083,
-          "close": 146.083,
-          "vol_ratio": 3.25
-        },
-        {
-          "date": "2026-01-22",
-          "low": 126.904,
-          "high": 134.953,
-          "close": 132.27,
-          "vol_ratio": 2.19
-        }
-      ],
-      "zones_count": 20
-    },
-    {
       "ticker": "NEX.PA",
       "nom": "Nexans",
-      "date": "2026-08-13",
-      "close": 142.5,
-      "ema20": 137.12,
-      "ema50": 139.086,
-      "ema200": 133.282,
-      "rsi14": 57.6,
-      "atr14": 4.866,
-      "atr_pct": 3.41,
+      "date": "2026-08-14",
+      "close": 140.0,
+      "ema20": 137.579,
+      "ema50": 139.514,
+      "ema200": 133.347,
+      "rsi14": 53.1,
+      "atr14": 4.783,
+      "atr_pct": 3.42,
       "atr_rising": true,
-      "vol_ratio": 0.82,
+      "vol_ratio": 0.68,
       "high_52w": 165.963,
-      "dist_52w_pct": -14.14,
+      "dist_52w_pct": -15.64,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": false
       },
-      "momentum_score": 56.0,
+      "momentum_score": 51.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
@@ -2749,265 +2553,20 @@
       "zones_count": 11
     },
     {
-      "ticker": "OR.PA",
-      "nom": "L'Oreal",
-      "date": "2026-08-13",
-      "close": 383.3,
-      "ema20": 383.911,
-      "ema50": 380.514,
-      "ema200": 370.673,
-      "rsi14": 50.0,
-      "atr14": 8.065,
-      "atr_pct": 2.1,
-      "atr_rising": false,
-      "vol_ratio": 0.79,
-      "high_52w": 401.0,
-      "dist_52w_pct": -4.41,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 55.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-06-19",
-          "low": 376.1,
-          "high": 385.75,
-          "close": 380.1,
-          "vol_ratio": 2.83
-        },
-        {
-          "date": "2026-05-29",
-          "low": 382.55,
-          "high": 394.5,
-          "close": 382.55,
-          "vol_ratio": 3.24
-        },
-        {
-          "date": "2025-07-30",
-          "low": 355.908,
-          "high": 383.957,
-          "close": 381.064,
-          "vol_ratio": 2.22
-        }
-      ],
-      "zones_count": 9
-    },
-    {
-      "ticker": "KER.PA",
-      "nom": "Kering",
-      "date": "2026-08-13",
-      "close": 270.6,
-      "ema20": 272.31,
-      "ema50": 263.451,
-      "ema200": 258.716,
-      "rsi14": 50.8,
-      "atr14": 9.685,
-      "atr_pct": 3.58,
-      "atr_rising": true,
-      "vol_ratio": 0.65,
-      "high_52w": 348.875,
-      "dist_52w_pct": -22.44,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 55.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2025-09-19",
-          "low": 263.922,
-          "high": 271.654,
-          "close": 263.922,
-          "vol_ratio": 2.15
-        },
-        {
-          "date": "2026-07-29",
-          "low": 271.8,
-          "high": 292.85,
-          "close": 292.85,
-          "vol_ratio": 3.78
-        },
-        {
-          "date": "2026-02-10",
-          "low": 273.233,
-          "high": 293.852,
-          "close": 284.803,
-          "vol_ratio": 2.57
-        }
-      ],
-      "zones_count": 10
-    },
-    {
-      "ticker": "SPIE.PA",
-      "nom": "Spie",
-      "date": "2026-08-13",
-      "close": 47.92,
-      "ema20": 47.594,
-      "ema50": 48.166,
-      "ema200": 47.169,
-      "rsi14": 50.9,
-      "atr14": 1.063,
-      "atr_pct": 2.22,
-      "atr_rising": false,
-      "vol_ratio": 1.18,
-      "high_52w": 53.45,
-      "dist_52w_pct": -10.35,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 53.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-03-06",
-          "low": 46.839,
-          "high": 49.369,
-          "close": 47.922,
-          "vol_ratio": 2.55
-        },
-        {
-          "date": "2025-09-19",
-          "low": 46.997,
-          "high": 47.666,
-          "close": 46.997,
-          "vol_ratio": 5.1
-        },
-        {
-          "date": "2026-05-29",
-          "low": 48.84,
-          "high": 49.46,
-          "close": 48.9,
-          "vol_ratio": 2.96
-        }
-      ],
-      "zones_count": 16
-    },
-    {
-      "ticker": "TRI.PA",
-      "nom": "Trigano",
-      "date": "2026-08-13",
-      "close": 156.8,
-      "ema20": 151.849,
-      "ema50": 149.909,
-      "ema200": 150.581,
-      "rsi14": 63.9,
-      "atr14": 3.474,
-      "atr_pct": 2.22,
-      "atr_rising": false,
-      "vol_ratio": 0.82,
-      "high_52w": 176.128,
-      "dist_52w_pct": -10.97,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 52.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-03-03",
-          "low": 152.683,
-          "high": 159.185,
-          "close": 155.244,
-          "vol_ratio": 2.26
-        },
-        {
-          "date": "2026-05-07",
-          "low": 155.7,
-          "high": 162.2,
-          "close": 155.7,
-          "vol_ratio": 2.0
-        },
-        {
-          "date": "2025-11-27",
-          "low": 151.797,
-          "high": 168.838,
-          "close": 168.838,
-          "vol_ratio": 7.34
-        }
-      ],
-      "zones_count": 19
-    },
-    {
-      "ticker": "CARM.PA",
-      "nom": "Carmila",
-      "date": "2026-08-13",
-      "close": 16.58,
-      "ema20": 16.734,
-      "ema50": 16.579,
-      "ema200": 16.107,
-      "rsi14": 45.3,
-      "atr14": 0.222,
-      "atr_pct": 1.34,
-      "atr_rising": false,
-      "vol_ratio": 1.16,
-      "high_52w": 17.34,
-      "dist_52w_pct": -4.38,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 52.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2025-05-19",
-          "low": 16.321,
-          "high": 16.89,
-          "close": 16.798,
-          "vol_ratio": 2.03
-        },
-        {
-          "date": "2026-06-10",
-          "low": 16.42,
-          "high": 16.88,
-          "close": 16.88,
-          "vol_ratio": 4.25
-        },
-        {
-          "date": "2026-03-17",
-          "low": 16.118,
-          "high": 16.504,
-          "close": 16.504,
-          "vol_ratio": 2.22
-        }
-      ],
-      "zones_count": 20
-    },
-    {
       "ticker": "URW.PA",
       "nom": "Unibail-Rodamco-Westfield",
-      "date": "2026-08-13",
-      "close": 103.4,
-      "ema20": 103.968,
-      "ema50": 102.529,
-      "ema200": 95.396,
-      "rsi14": 47.7,
-      "atr14": 1.345,
-      "atr_pct": 1.3,
+      "date": "2026-08-14",
+      "close": 103.5,
+      "ema20": 103.924,
+      "ema50": 102.567,
+      "ema200": 95.508,
+      "rsi14": 48.5,
+      "atr14": 1.317,
+      "atr_pct": 1.27,
       "atr_rising": false,
-      "vol_ratio": 0.86,
+      "vol_ratio": 0.76,
       "high_52w": 106.2,
-      "dist_52w_pct": -2.64,
+      "dist_52w_pct": -2.54,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3045,18 +2604,18 @@
     {
       "ticker": "BVI.PA",
       "nom": "Bureau Veritas",
-      "date": "2026-08-13",
-      "close": 27.36,
-      "ema20": 27.796,
-      "ema50": 27.203,
+      "date": "2026-08-14",
+      "close": 27.57,
+      "ema20": 27.752,
+      "ema50": 27.173,
       "ema200": 26.601,
-      "rsi14": 46.7,
-      "atr14": 0.565,
-      "atr_pct": 2.06,
+      "rsi14": 49.6,
+      "atr14": 0.557,
+      "atr_pct": 2.02,
       "atr_rising": true,
-      "vol_ratio": 0.85,
+      "vol_ratio": 0.64,
       "high_52w": 30.18,
-      "dist_52w_pct": -9.34,
+      "dist_52w_pct": -8.65,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3082,128 +2641,79 @@
           "vol_ratio": 2.75
         },
         {
-          "date": "2025-03-12",
-          "low": 25.963,
-          "high": 26.693,
-          "close": 26.6,
-          "vol_ratio": 2.65
+          "date": "2025-02-25",
+          "low": 27.76,
+          "high": 29.071,
+          "close": 28.49,
+          "vol_ratio": 2.77
         }
       ],
       "zones_count": 12
     },
     {
-      "ticker": "NANO.PA",
-      "nom": "Nanobiotix",
-      "date": "2026-08-13",
-      "close": 33.18,
-      "ema20": 33.605,
-      "ema50": 33.119,
-      "ema200": 26.646,
-      "rsi14": 48.3,
-      "atr14": 2.096,
-      "atr_pct": 6.32,
-      "atr_rising": false,
-      "vol_ratio": 1.66,
-      "high_52w": 47.66,
-      "dist_52w_pct": -30.38,
+      "ticker": "VLA.PA",
+      "nom": "Valneva SE",
+      "date": "2026-08-14",
+      "close": 3.0,
+      "ema20": 2.352,
+      "ema50": 2.357,
+      "ema200": 2.968,
+      "rsi14": 84.3,
+      "atr14": 0.148,
+      "atr_pct": 4.94,
+      "atr_rising": true,
+      "vol_ratio": 8.94,
+      "high_52w": 5.415,
+      "dist_52w_pct": -44.6,
       "signals": {
         "breakout_52w": false,
         "volume_spike": true,
         "ema_cross": null,
-        "near_ema200": false
+        "near_ema200": true
       },
-      "momentum_score": 50.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
+      "momentum_score": 48.0,
+      "phase": "extension",
+      "phase_label": "Phase 3 - Extension",
       "zones_top3": [
         {
-          "date": "2026-05-06",
-          "low": 29.1,
-          "high": 35.36,
-          "close": 34.7,
-          "vol_ratio": 3.05
+          "date": "2026-08-14",
+          "low": 2.67,
+          "high": 3.242,
+          "close": 3.0,
+          "vol_ratio": 8.94
         },
         {
-          "date": "2026-05-07",
-          "low": 31.36,
-          "high": 38.4,
-          "close": 35.84,
-          "vol_ratio": 2.94
+          "date": "2026-03-24",
+          "low": 2.814,
+          "high": 3.066,
+          "close": 2.836,
+          "vol_ratio": 2.44
         },
         {
-          "date": "2026-03-09",
-          "low": 27.35,
-          "high": 34.0,
-          "close": 33.5,
-          "vol_ratio": 2.01
+          "date": "2026-05-11",
+          "low": 2.42,
+          "high": 2.847,
+          "close": 2.738,
+          "vol_ratio": 3.22
         }
       ],
       "zones_count": 20
     },
     {
-      "ticker": "ADOC.PA",
-      "nom": "Adocia",
-      "date": "2026-08-13",
-      "close": 4.216,
-      "ema20": 4.037,
-      "ema50": 4.151,
-      "ema200": 5.17,
-      "rsi14": 60.5,
-      "atr14": 0.154,
-      "atr_pct": 3.64,
+      "ticker": "RI.PA",
+      "nom": "Pernod Ricard",
+      "date": "2026-08-14",
+      "close": 69.16,
+      "ema20": 67.036,
+      "ema50": 64.871,
+      "ema200": 68.585,
+      "rsi14": 62.3,
+      "atr14": 1.706,
+      "atr_pct": 2.47,
       "atr_rising": false,
-      "vol_ratio": 2.62,
-      "high_52w": 12.4,
-      "dist_52w_pct": -66.0,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": true,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 50.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-08-13",
-          "low": 4.104,
-          "high": 4.3,
-          "close": 4.216,
-          "vol_ratio": 2.62
-        },
-        {
-          "date": "2026-06-03",
-          "low": 4.05,
-          "high": 4.552,
-          "close": 4.106,
-          "vol_ratio": 2.47
-        },
-        {
-          "date": "2026-04-13",
-          "low": 4.164,
-          "high": 4.602,
-          "close": 4.308,
-          "vol_ratio": 3.13
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "DSY.PA",
-      "nom": "Dassault Systemes",
-      "date": "2026-08-13",
-      "close": 20.92,
-      "ema20": 20.603,
-      "ema50": 19.648,
-      "ema200": 21.142,
-      "rsi14": 56.5,
-      "atr14": 0.698,
-      "atr_pct": 3.34,
-      "atr_rising": false,
-      "vol_ratio": 0.77,
-      "high_52w": 29.957,
-      "dist_52w_pct": -30.17,
+      "vol_ratio": 0.74,
+      "high_52w": 100.565,
+      "dist_52w_pct": -31.23,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3211,9 +2721,65 @@
         "near_ema200": true
       },
       "momentum_score": 47.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
+        {
+          "date": "2025-11-21",
+          "low": 73.395,
+          "high": 76.821,
+          "close": 76.016,
+          "vol_ratio": 2.07
+        },
+        {
+          "date": "2025-11-24",
+          "low": 75.544,
+          "high": 76.874,
+          "close": 75.544,
+          "vol_ratio": 2.01
+        },
+        {
+          "date": "2026-05-29",
+          "low": 60.913,
+          "high": 62.532,
+          "close": 61.125,
+          "vol_ratio": 2.81
+        }
+      ],
+      "zones_count": 10
+    },
+    {
+      "ticker": "DSY.PA",
+      "nom": "Dassault Systemes",
+      "date": "2026-08-14",
+      "close": 21.68,
+      "ema20": 20.706,
+      "ema50": 19.728,
+      "ema200": 21.156,
+      "rsi14": 62.1,
+      "atr14": 0.723,
+      "atr_pct": 3.34,
+      "atr_rising": false,
+      "vol_ratio": 0.66,
+      "high_52w": 29.957,
+      "dist_52w_pct": -27.63,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 47.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2025-12-19",
+          "low": 23.198,
+          "high": 23.444,
+          "close": 23.385,
+          "vol_ratio": 2.1
+        },
         {
           "date": "2026-07-24",
           "low": 18.52,
@@ -3227,13 +2793,6 @@
           "high": 19.99,
           "close": 18.65,
           "vol_ratio": 2.41
-        },
-        {
-          "date": "2026-05-29",
-          "low": 18.465,
-          "high": 18.92,
-          "close": 18.805,
-          "vol_ratio": 3.72
         }
       ],
       "zones_count": 15
@@ -3241,18 +2800,18 @@
     {
       "ticker": "RNO.PA",
       "nom": "Renault",
-      "date": "2026-08-13",
-      "close": 28.23,
-      "ema20": 27.713,
-      "ema50": 27.362,
-      "ema200": 29.338,
-      "rsi14": 57.6,
-      "atr14": 0.74,
-      "atr_pct": 2.62,
+      "date": "2026-08-14",
+      "close": 28.63,
+      "ema20": 27.786,
+      "ema50": 27.423,
+      "ema200": 29.394,
+      "rsi14": 62.0,
+      "atr14": 0.721,
+      "atr_pct": 2.52,
       "atr_rising": false,
-      "vol_ratio": 0.49,
+      "vol_ratio": 0.9,
       "high_52w": 35.287,
-      "dist_52w_pct": -20.0,
+      "dist_52w_pct": -18.87,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3288,50 +2847,99 @@
       "zones_count": 12
     },
     {
-      "ticker": "DIM.PA",
-      "nom": "Sartorius Stedim Biotech",
-      "date": "2026-08-13",
-      "close": 181.2,
-      "ema20": 176.131,
-      "ema50": 175.227,
-      "ema200": 179.46,
-      "rsi14": 56.9,
-      "atr14": 6.455,
-      "atr_pct": 3.56,
+      "ticker": "UBI.PA",
+      "nom": "Ubisoft Entertainment",
+      "date": "2026-08-14",
+      "close": 5.45,
+      "ema20": 5.373,
+      "ema50": 5.328,
+      "ema200": 5.793,
+      "rsi14": 51.6,
+      "atr14": 0.304,
+      "atr_pct": 5.58,
       "atr_rising": false,
-      "vol_ratio": 0.54,
-      "high_52w": 223.092,
-      "dist_52w_pct": -18.78,
+      "vol_ratio": 0.89,
+      "high_52w": 10.305,
+      "dist_52w_pct": -47.11,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
-        "near_ema200": true
+        "near_ema200": false
       },
       "momentum_score": 47.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
         {
+          "date": "2026-07-23",
+          "low": 4.625,
+          "high": 5.466,
+          "close": 4.725,
+          "vol_ratio": 2.04
+        },
+        {
+          "date": "2026-05-22",
+          "low": 4.557,
+          "high": 5.504,
+          "close": 5.284,
+          "vol_ratio": 3.06
+        },
+        {
+          "date": "2025-11-10",
+          "low": 5.866,
+          "high": 6.3,
+          "close": 6.192,
+          "vol_ratio": 2.29
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "DIM.PA",
+      "nom": "Sartorius Stedim Biotech",
+      "date": "2026-08-14",
+      "close": 185.5,
+      "ema20": 177.298,
+      "ema50": 175.77,
+      "ema200": 179.577,
+      "rsi14": 61.0,
+      "atr14": 6.551,
+      "atr_pct": 3.53,
+      "atr_rising": false,
+      "vol_ratio": 0.81,
+      "high_52w": 223.092,
+      "dist_52w_pct": -16.85,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 47.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2025-09-19",
+          "low": 182.955,
+          "high": 186.391,
+          "close": 185.246,
+          "vol_ratio": 3.11
+        },
+        {
+          "date": "2026-02-03",
+          "low": 176.681,
+          "high": 197.446,
+          "close": 191.222,
+          "vol_ratio": 2.58
+        },
+        {
           "date": "2025-10-01",
           "low": 174.54,
           "high": 187.736,
           "close": 185.146,
           "vol_ratio": 2.81
-        },
-        {
-          "date": "2026-05-29",
-          "low": 175.4,
-          "high": 183.3,
-          "close": 178.1,
-          "vol_ratio": 2.17
-        },
-        {
-          "date": "2025-07-22",
-          "low": 166.024,
-          "high": 191.222,
-          "close": 174.291,
-          "vol_ratio": 5.97
         }
       ],
       "zones_count": 12
@@ -3339,18 +2947,18 @@
     {
       "ticker": "LR.PA",
       "nom": "Legrand",
-      "date": "2026-08-13",
-      "close": 141.75,
-      "ema20": 138.472,
-      "ema50": 140.138,
-      "ema200": 137.23,
-      "rsi14": 56.2,
-      "atr14": 3.806,
-      "atr_pct": 2.69,
+      "date": "2026-08-14",
+      "close": 140.7,
+      "ema20": 138.41,
+      "ema50": 139.772,
+      "ema200": 137.225,
+      "rsi14": 54.9,
+      "atr14": 3.663,
+      "atr_pct": 2.6,
       "atr_rising": false,
-      "vol_ratio": 0.64,
+      "vol_ratio": 0.6,
       "high_52w": 164.281,
-      "dist_52w_pct": -13.71,
+      "dist_52w_pct": -14.35,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3386,272 +2994,174 @@
       "zones_count": 12
     },
     {
-      "ticker": "BIM.PA",
-      "nom": "Biomerieux",
-      "date": "2026-08-13",
-      "close": 73.0,
-      "ema20": 72.114,
-      "ema50": 72.173,
-      "ema200": 85.096,
-      "rsi14": 54.1,
-      "atr14": 1.883,
-      "atr_pct": 2.58,
-      "atr_rising": true,
-      "vol_ratio": 0.79,
-      "high_52w": 126.562,
-      "dist_52w_pct": -42.32,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 45.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-07-28",
-          "low": 66.3,
-          "high": 76.0,
-          "close": 74.95,
-          "vol_ratio": 2.3
-        },
-        {
-          "date": "2026-04-27",
-          "low": 70.236,
-          "high": 71.913,
-          "close": 70.334,
-          "vol_ratio": 2.0
-        },
-        {
-          "date": "2026-04-23",
-          "low": 71.715,
-          "high": 78.325,
-          "close": 72.258,
-          "vol_ratio": 3.87
-        }
-      ],
-      "zones_count": 16
-    },
-    {
-      "ticker": "AYV.PA",
-      "nom": "Ayvens",
-      "date": "2026-08-13",
-      "close": 11.64,
-      "ema20": 11.668,
-      "ema50": 11.537,
-      "ema200": 10.623,
-      "rsi14": 49.5,
-      "atr14": 0.243,
-      "atr_pct": 2.08,
+      "ticker": "SPIE.PA",
+      "nom": "Spie",
+      "date": "2026-08-14",
+      "close": 47.9,
+      "ema20": 47.623,
+      "ema50": 48.155,
+      "ema200": 47.186,
+      "rsi14": 50.7,
+      "atr14": 1.014,
+      "atr_pct": 2.12,
       "atr_rising": false,
-      "vol_ratio": 0.7,
-      "high_52w": 12.34,
-      "dist_52w_pct": -5.67,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 45.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-02-04",
-          "low": 11.469,
-          "high": 11.791,
-          "close": 11.744,
-          "vol_ratio": 2.28
-        },
-        {
-          "date": "2026-05-29",
-          "low": 11.33,
-          "high": 11.58,
-          "close": 11.58,
-          "vol_ratio": 6.7
-        },
-        {
-          "date": "2026-07-30",
-          "low": 11.68,
-          "high": 12.34,
-          "close": 12.0,
-          "vol_ratio": 2.94
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "NXI.PA",
-      "nom": "Nexity",
-      "date": "2026-08-13",
-      "close": 7.335,
-      "ema20": 7.204,
-      "ema50": 7.51,
-      "ema200": 8.415,
-      "rsi14": 52.0,
-      "atr14": 0.256,
-      "atr_pct": 3.49,
-      "atr_rising": false,
-      "vol_ratio": 1.0,
-      "high_52w": 11.34,
-      "dist_52w_pct": -35.32,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 42.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
-      "zones_top3": [
-        {
-          "date": "2026-07-24",
-          "low": 6.55,
-          "high": 7.325,
-          "close": 6.635,
-          "vol_ratio": 4.39
-        },
-        {
-          "date": "2026-05-20",
-          "low": 7.905,
-          "high": 8.47,
-          "close": 8.35,
-          "vol_ratio": 2.34
-        },
-        {
-          "date": "2025-04-07",
-          "low": 7.465,
-          "high": 9.24,
-          "close": 8.795,
-          "vol_ratio": 2.24
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "BN.PA",
-      "nom": "Danone",
-      "date": "2026-08-13",
-      "close": 67.98,
-      "ema20": 68.864,
-      "ema50": 68.79,
-      "ema200": 68.405,
-      "rsi14": 44.2,
-      "atr14": 1.338,
-      "atr_pct": 1.97,
-      "atr_rising": false,
-      "vol_ratio": 0.76,
-      "high_52w": 77.438,
-      "dist_52w_pct": -12.21,
+      "vol_ratio": 0.83,
+      "high_52w": 53.45,
+      "dist_52w_pct": -10.38,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": true
       },
-      "momentum_score": 40.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2025-07-30",
-          "low": 67.64,
-          "high": 69.573,
-          "close": 68.838,
-          "vol_ratio": 2.59
-        },
-        {
-          "date": "2025-06-20",
-          "low": 68.703,
-          "high": 69.263,
-          "close": 69.167,
-          "vol_ratio": 2.08
-        },
-        {
-          "date": "2025-04-04",
-          "low": 67.929,
-          "high": 70.371,
-          "close": 67.929,
-          "vol_ratio": 2.05
-        }
-      ],
-      "zones_count": 12
-    },
-    {
-      "ticker": "AC.PA",
-      "nom": "Accor",
-      "date": "2026-08-13",
-      "close": 46.56,
-      "ema20": 46.747,
-      "ema50": 46.743,
-      "ema200": 45.157,
-      "rsi14": 47.9,
-      "atr14": 1.029,
-      "atr_pct": 2.21,
-      "atr_rising": false,
-      "vol_ratio": 0.78,
-      "high_52w": 52.0,
-      "dist_52w_pct": -10.46,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 40.0,
+      "momentum_score": 46.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
         {
-          "date": "2026-02-27",
-          "low": 47.079,
-          "high": 48.244,
-          "close": 47.846,
-          "vol_ratio": 2.24
+          "date": "2026-03-06",
+          "low": 46.839,
+          "high": 49.369,
+          "close": 47.922,
+          "vol_ratio": 2.55
         },
         {
-          "date": "2026-03-02",
-          "low": 42.737,
-          "high": 44.077,
-          "close": 43.592,
-          "vol_ratio": 2.91
+          "date": "2025-09-19",
+          "low": 46.997,
+          "high": 47.666,
+          "close": 46.997,
+          "vol_ratio": 5.1
         },
         {
-          "date": "2025-07-31",
-          "low": 41.843,
-          "high": 44.641,
-          "close": 43.378,
-          "vol_ratio": 3.96
+          "date": "2026-05-29",
+          "low": 48.84,
+          "high": 49.46,
+          "close": 48.9,
+          "vol_ratio": 2.96
         }
       ],
-      "zones_count": 10
+      "zones_count": 16
     },
     {
-      "ticker": "MERY.PA",
-      "nom": "Mercialys",
-      "date": "2026-08-13",
-      "close": 11.62,
-      "ema20": 11.817,
-      "ema50": 11.748,
-      "ema200": 11.083,
-      "rsi14": 39.8,
-      "atr14": 0.176,
-      "atr_pct": 1.52,
-      "atr_rising": true,
-      "vol_ratio": 0.46,
-      "high_52w": 12.38,
-      "dist_52w_pct": -6.14,
+      "ticker": "OR.PA",
+      "nom": "L'Oreal",
+      "date": "2026-08-14",
+      "close": 379.5,
+      "ema20": 383.68,
+      "ema50": 380.767,
+      "ema200": 371.044,
+      "rsi14": 46.1,
+      "atr14": 7.846,
+      "atr_pct": 2.07,
+      "atr_rising": false,
+      "vol_ratio": 0.69,
+      "high_52w": 401.0,
+      "dist_52w_pct": -5.36,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
         "near_ema200": false
       },
-      "momentum_score": 39.0,
+      "momentum_score": 45.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-06-19",
+          "low": 376.1,
+          "high": 385.75,
+          "close": 380.1,
+          "vol_ratio": 2.83
+        },
+        {
+          "date": "2026-05-29",
+          "low": 382.55,
+          "high": 394.5,
+          "close": 382.55,
+          "vol_ratio": 3.24
+        },
+        {
+          "date": "2025-07-30",
+          "low": 355.908,
+          "high": 383.957,
+          "close": 381.064,
+          "vol_ratio": 2.22
+        }
+      ],
+      "zones_count": 9
+    },
+    {
+      "ticker": "RXL.PA",
+      "nom": "Rexel",
+      "date": "2026-08-14",
+      "close": 37.12,
+      "ema20": 37.259,
+      "ema50": 37.151,
+      "ema200": 34.376,
+      "rsi14": 48.6,
+      "atr14": 0.874,
+      "atr_pct": 2.36,
+      "atr_rising": false,
+      "vol_ratio": 0.49,
+      "high_52w": 39.8,
+      "dist_52w_pct": -6.73,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 45.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-04-14",
+          "low": 35.828,
+          "high": 36.487,
+          "close": 36.487,
+          "vol_ratio": 2.13
+        },
+        {
+          "date": "2026-02-03",
+          "low": 35.45,
+          "high": 36.574,
+          "close": 36.574,
+          "vol_ratio": 2.85
+        },
+        {
+          "date": "2026-06-19",
+          "low": 38.01,
+          "high": 38.83,
+          "close": 38.01,
+          "vol_ratio": 2.49
+        }
+      ],
+      "zones_count": 15
+    },
+    {
+      "ticker": "MERY.PA",
+      "nom": "Mercialys",
+      "date": "2026-08-14",
+      "close": 11.6,
+      "ema20": 11.789,
+      "ema50": 11.733,
+      "ema200": 11.075,
+      "rsi14": 40.0,
+      "atr14": 0.174,
+      "atr_pct": 1.5,
+      "atr_rising": false,
+      "vol_ratio": 0.71,
+      "high_52w": 12.38,
+      "dist_52w_pct": -6.3,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 45.0,
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
@@ -3680,20 +3190,608 @@
       "zones_count": 7
     },
     {
+      "ticker": "BOL.PA",
+      "nom": "Bollore",
+      "date": "2026-08-14",
+      "close": 3.868,
+      "ema20": 3.881,
+      "ema50": 3.902,
+      "ema200": 3.726,
+      "rsi14": 46.9,
+      "atr14": 0.074,
+      "atr_pct": 1.9,
+      "atr_rising": true,
+      "vol_ratio": 1.5,
+      "high_52w": 4.196,
+      "dist_52w_pct": -7.82,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": true,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 45.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2026-05-29",
+          "low": 3.786,
+          "high": 3.886,
+          "close": 3.886,
+          "vol_ratio": 3.72
+        },
+        {
+          "date": "2026-05-07",
+          "low": 3.782,
+          "high": 3.864,
+          "close": 3.786,
+          "vol_ratio": 6.64
+        },
+        {
+          "date": "2026-06-19",
+          "low": 3.871,
+          "high": 3.989,
+          "close": 3.939,
+          "vol_ratio": 2.22
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "BIM.PA",
+      "nom": "Biomerieux",
+      "date": "2026-08-14",
+      "close": 73.1,
+      "ema20": 72.208,
+      "ema50": 72.209,
+      "ema200": 84.989,
+      "rsi14": 54.5,
+      "atr14": 1.834,
+      "atr_pct": 2.51,
+      "atr_rising": true,
+      "vol_ratio": 0.67,
+      "high_52w": 126.562,
+      "dist_52w_pct": -42.24,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 45.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-04-23",
+          "low": 71.715,
+          "high": 78.325,
+          "close": 72.258,
+          "vol_ratio": 3.87
+        },
+        {
+          "date": "2026-07-28",
+          "low": 66.3,
+          "high": 76.0,
+          "close": 74.95,
+          "vol_ratio": 2.3
+        },
+        {
+          "date": "2026-04-27",
+          "low": 70.236,
+          "high": 71.913,
+          "close": 70.334,
+          "vol_ratio": 2.0
+        }
+      ],
+      "zones_count": 16
+    },
+    {
+      "ticker": "CARM.PA",
+      "nom": "Carmila",
+      "date": "2026-08-14",
+      "close": 16.56,
+      "ema20": 16.717,
+      "ema50": 16.578,
+      "ema200": 16.11,
+      "rsi14": 44.7,
+      "atr14": 0.217,
+      "atr_pct": 1.31,
+      "atr_rising": false,
+      "vol_ratio": 0.93,
+      "high_52w": 17.34,
+      "dist_52w_pct": -4.5,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 45.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2025-05-19",
+          "low": 16.321,
+          "high": 16.89,
+          "close": 16.798,
+          "vol_ratio": 2.03
+        },
+        {
+          "date": "2026-06-10",
+          "low": 16.42,
+          "high": 16.88,
+          "close": 16.88,
+          "vol_ratio": 4.25
+        },
+        {
+          "date": "2026-03-17",
+          "low": 16.118,
+          "high": 16.504,
+          "close": 16.504,
+          "vol_ratio": 2.22
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "ADP.PA",
+      "nom": "Aeroports de Paris",
+      "date": "2026-08-14",
+      "close": 111.0,
+      "ema20": 113.341,
+      "ema50": 111.494,
+      "ema200": 109.423,
+      "rsi14": 45.9,
+      "atr14": 2.908,
+      "atr_pct": 2.62,
+      "atr_rising": true,
+      "vol_ratio": 0.79,
+      "high_52w": 129.409,
+      "dist_52w_pct": -14.23,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": true
+      },
+      "momentum_score": 44.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-05-29",
+          "low": 109.21,
+          "high": 112.109,
+          "close": 111.143,
+          "vol_ratio": 2.22
+        },
+        {
+          "date": "2025-05-30",
+          "low": 109.619,
+          "high": 111.502,
+          "close": 111.22,
+          "vol_ratio": 3.99
+        },
+        {
+          "date": "2025-12-19",
+          "low": 108.244,
+          "high": 112.013,
+          "close": 108.244,
+          "vol_ratio": 2.38
+        }
+      ],
+      "zones_count": 17
+    },
+    {
+      "ticker": "NANO.PA",
+      "nom": "Nanobiotix",
+      "date": "2026-08-14",
+      "close": 32.3,
+      "ema20": 33.48,
+      "ema50": 33.087,
+      "ema200": 26.701,
+      "rsi14": 44.7,
+      "atr14": 2.044,
+      "atr_pct": 6.33,
+      "atr_rising": false,
+      "vol_ratio": 1.01,
+      "high_52w": 47.66,
+      "dist_52w_pct": -32.23,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 42.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-05-06",
+          "low": 29.1,
+          "high": 35.36,
+          "close": 34.7,
+          "vol_ratio": 3.05
+        },
+        {
+          "date": "2026-03-09",
+          "low": 27.35,
+          "high": 34.0,
+          "close": 33.5,
+          "vol_ratio": 2.01
+        },
+        {
+          "date": "2026-03-05",
+          "low": 28.8,
+          "high": 31.8,
+          "close": 28.85,
+          "vol_ratio": 2.5
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "ADOC.PA",
+      "nom": "Adocia",
+      "date": "2026-08-14",
+      "close": 4.146,
+      "ema20": 4.048,
+      "ema50": 4.151,
+      "ema200": 5.158,
+      "rsi14": 55.8,
+      "atr14": 0.153,
+      "atr_pct": 3.68,
+      "atr_rising": false,
+      "vol_ratio": 1.24,
+      "high_52w": 12.4,
+      "dist_52w_pct": -66.56,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 42.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-08-13",
+          "low": 4.104,
+          "high": 4.3,
+          "close": 4.216,
+          "vol_ratio": 2.62
+        },
+        {
+          "date": "2026-06-03",
+          "low": 4.05,
+          "high": 4.552,
+          "close": 4.106,
+          "vol_ratio": 2.47
+        },
+        {
+          "date": "2026-04-13",
+          "low": 4.164,
+          "high": 4.602,
+          "close": 4.308,
+          "vol_ratio": 3.13
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "MAU.PA",
+      "nom": "Maurel & Prom",
+      "date": "2026-08-14",
+      "close": 8.125,
+      "ema20": 8.076,
+      "ema50": 8.263,
+      "ema200": 7.853,
+      "rsi14": 50.8,
+      "atr14": 0.242,
+      "atr_pct": 2.98,
+      "atr_rising": false,
+      "vol_ratio": 0.5,
+      "high_52w": 11.44,
+      "dist_52w_pct": -28.98,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 41.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-07-08",
+          "low": 7.765,
+          "high": 8.15,
+          "close": 8.1,
+          "vol_ratio": 2.3
+        },
+        {
+          "date": "2026-02-19",
+          "low": 8.0,
+          "high": 8.605,
+          "close": 8.585,
+          "vol_ratio": 2.08
+        },
+        {
+          "date": "2026-02-16",
+          "low": 6.85,
+          "high": 7.655,
+          "close": 7.635,
+          "vol_ratio": 2.31
+        }
+      ],
+      "zones_count": 20
+    },
+    {
+      "ticker": "BN.PA",
+      "nom": "Danone",
+      "date": "2026-08-14",
+      "close": 67.24,
+      "ema20": 68.792,
+      "ema50": 68.692,
+      "ema200": 68.368,
+      "rsi14": 41.0,
+      "atr14": 1.347,
+      "atr_pct": 2.0,
+      "atr_rising": false,
+      "vol_ratio": 0.61,
+      "high_52w": 77.438,
+      "dist_52w_pct": -13.17,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": true
+      },
+      "momentum_score": 40.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2025-04-07",
+          "low": 64.98,
+          "high": 67.347,
+          "close": 65.13,
+          "vol_ratio": 2.16
+        },
+        {
+          "date": "2025-07-30",
+          "low": 67.64,
+          "high": 69.573,
+          "close": 68.838,
+          "vol_ratio": 2.59
+        },
+        {
+          "date": "2025-02-26",
+          "low": 64.736,
+          "high": 66.84,
+          "close": 64.961,
+          "vol_ratio": 2.04
+        }
+      ],
+      "zones_count": 12
+    },
+    {
+      "ticker": "ORA.PA",
+      "nom": "Orange",
+      "date": "2026-08-14",
+      "close": 16.405,
+      "ema20": 16.384,
+      "ema50": 16.568,
+      "ema200": 15.887,
+      "rsi14": 49.6,
+      "atr14": 0.36,
+      "atr_pct": 2.19,
+      "atr_rising": true,
+      "vol_ratio": 0.85,
+      "high_52w": 18.335,
+      "dist_52w_pct": -10.53,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 40.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-03-20",
+          "low": 16.6,
+          "high": 16.897,
+          "close": 16.688,
+          "vol_ratio": 3.73
+        },
+        {
+          "date": "2026-06-19",
+          "low": 16.865,
+          "high": 17.085,
+          "close": 17.085,
+          "vol_ratio": 2.67
+        },
+        {
+          "date": "2025-12-19",
+          "low": 13.499,
+          "high": 13.602,
+          "close": 13.563,
+          "vol_ratio": 2.22
+        }
+      ],
+      "zones_count": 12
+    },
+    {
+      "ticker": "GFC.PA",
+      "nom": "Gecina",
+      "date": "2026-08-14",
+      "close": 74.0,
+      "ema20": 74.36,
+      "ema50": 72.959,
+      "ema200": 72.494,
+      "rsi14": 49.8,
+      "atr14": 1.135,
+      "atr_pct": 1.53,
+      "atr_rising": false,
+      "vol_ratio": 0.71,
+      "high_52w": 81.201,
+      "dist_52w_pct": -8.87,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 40.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2025-12-08",
+          "low": 73.012,
+          "high": 73.613,
+          "close": 73.243,
+          "vol_ratio": 2.16
+        },
+        {
+          "date": "2025-04-07",
+          "low": 72.989,
+          "high": 77.75,
+          "close": 74.561,
+          "vol_ratio": 2.38
+        },
+        {
+          "date": "2025-03-06",
+          "low": 74.741,
+          "high": 77.571,
+          "close": 76.493,
+          "vol_ratio": 2.02
+        }
+      ],
+      "zones_count": 13
+    },
+    {
+      "ticker": "COV.PA",
+      "nom": "Covivio",
+      "date": "2026-08-14",
+      "close": 52.35,
+      "ema20": 52.518,
+      "ema50": 52.38,
+      "ema200": 51.92,
+      "rsi14": 48.7,
+      "atr14": 0.87,
+      "atr_pct": 1.66,
+      "atr_rising": false,
+      "vol_ratio": 0.58,
+      "high_52w": 58.605,
+      "dist_52w_pct": -10.67,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": true
+      },
+      "momentum_score": 40.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-03-20",
+          "low": 51.456,
+          "high": 53.181,
+          "close": 51.456,
+          "vol_ratio": 8.37
+        },
+        {
+          "date": "2025-09-19",
+          "low": 52.446,
+          "high": 53.146,
+          "close": 52.912,
+          "vol_ratio": 4.42
+        },
+        {
+          "date": "2026-05-29",
+          "low": 52.558,
+          "high": 53.516,
+          "close": 52.942,
+          "vol_ratio": 7.9
+        }
+      ],
+      "zones_count": 14
+    },
+    {
+      "ticker": "RBT.PA",
+      "nom": "Robertet",
+      "date": "2026-08-14",
+      "close": 806.0,
+      "ema20": 803.412,
+      "ema50": 804.908,
+      "ema200": 814.221,
+      "rsi14": 50.9,
+      "atr14": 15.457,
+      "atr_pct": 1.92,
+      "atr_rising": false,
+      "vol_ratio": 0.67,
+      "high_52w": 908.441,
+      "dist_52w_pct": -11.28,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": true
+      },
+      "momentum_score": 40.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-06-24",
+          "low": 796.118,
+          "high": 807.941,
+          "close": 806.956,
+          "vol_ratio": 2.25
+        },
+        {
+          "date": "2026-06-25",
+          "low": 794.147,
+          "high": 806.956,
+          "close": 797.103,
+          "vol_ratio": 3.23
+        },
+        {
+          "date": "2025-06-24",
+          "low": 805.689,
+          "high": 817.366,
+          "close": 807.635,
+          "vol_ratio": 2.13
+        }
+      ],
+      "zones_count": 20
+    },
+    {
       "ticker": "FRVIA.PA",
       "nom": "Forvia",
-      "date": "2026-08-13",
-      "close": 9.22,
-      "ema20": 9.142,
-      "ema50": 9.363,
-      "ema200": 10.404,
-      "rsi14": 51.0,
-      "atr14": 0.407,
-      "atr_pct": 4.42,
+      "date": "2026-08-14",
+      "close": 9.226,
+      "ema20": 9.15,
+      "ema50": 9.357,
+      "ema200": 10.392,
+      "rsi14": 51.1,
+      "atr14": 0.396,
+      "atr_pct": 4.29,
       "atr_rising": true,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.41,
       "high_52w": 15.03,
-      "dist_52w_pct": -38.66,
+      "dist_52w_pct": -38.62,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3731,18 +3829,18 @@
     {
       "ticker": "ERA.PA",
       "nom": "Eramet",
-      "date": "2026-08-13",
-      "close": 46.54,
-      "ema20": 45.545,
-      "ema50": 46.847,
-      "ema200": 52.17,
-      "rsi14": 54.7,
-      "atr14": 1.563,
-      "atr_pct": 3.36,
+      "date": "2026-08-14",
+      "close": 46.08,
+      "ema20": 45.671,
+      "ema50": 47.051,
+      "ema200": 52.326,
+      "rsi14": 51.5,
+      "atr14": 1.479,
+      "atr_pct": 3.21,
       "atr_rising": true,
-      "vol_ratio": 0.52,
+      "vol_ratio": 0.41,
       "high_52w": 88.2,
-      "dist_52w_pct": -47.23,
+      "dist_52w_pct": -47.76,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3753,13 +3851,6 @@
       "phase": "accumulation",
       "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
-        {
-          "date": "2025-09-11",
-          "low": 45.24,
-          "high": 48.44,
-          "close": 46.28,
-          "vol_ratio": 2.91
-        },
         {
           "date": "2026-06-29",
           "low": 45.4,
@@ -3773,6 +3864,13 @@
           "high": 46.68,
           "close": 46.32,
           "vol_ratio": 2.25
+        },
+        {
+          "date": "2025-09-11",
+          "low": 45.24,
+          "high": 48.44,
+          "close": 46.28,
+          "vol_ratio": 2.91
         }
       ],
       "zones_count": 20
@@ -3780,18 +3878,18 @@
     {
       "ticker": "AI.PA",
       "nom": "Air Liquide",
-      "date": "2026-08-13",
-      "close": 169.14,
-      "ema20": 172.501,
-      "ema50": 171.218,
-      "ema200": 161.786,
-      "rsi14": 39.5,
-      "atr14": 2.413,
-      "atr_pct": 1.43,
+      "date": "2026-08-14",
+      "close": 168.26,
+      "ema20": 172.097,
+      "ema50": 171.102,
+      "ema200": 161.87,
+      "rsi14": 37.5,
+      "atr14": 2.353,
+      "atr_pct": 1.4,
       "atr_rising": false,
-      "vol_ratio": 0.66,
+      "vol_ratio": 0.62,
       "high_52w": 182.26,
-      "dist_52w_pct": -7.2,
+      "dist_52w_pct": -7.68,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3829,18 +3927,18 @@
     {
       "ticker": "ITP.PA",
       "nom": "Interparfums",
-      "date": "2026-08-13",
-      "close": 24.62,
-      "ema20": 24.82,
-      "ema50": 24.568,
-      "ema200": 24.32,
-      "rsi14": 47.2,
-      "atr14": 0.639,
-      "atr_pct": 2.6,
+      "date": "2026-08-14",
+      "close": 24.76,
+      "ema20": 24.81,
+      "ema50": 24.532,
+      "ema200": 24.311,
+      "rsi14": 49.4,
+      "atr14": 0.614,
+      "atr_pct": 2.48,
       "atr_rising": false,
-      "vol_ratio": 0.56,
+      "vol_ratio": 0.82,
       "high_52w": 30.118,
-      "dist_52w_pct": -18.25,
+      "dist_52w_pct": -17.79,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3856,7 +3954,7 @@
           "low": 23.12,
           "high": 25.44,
           "close": 23.5,
-          "vol_ratio": 2.56
+          "vol_ratio": 2.57
         },
         {
           "date": "2026-06-05",
@@ -3876,20 +3974,69 @@
       "zones_count": 20
     },
     {
+      "ticker": "NXI.PA",
+      "nom": "Nexity",
+      "date": "2026-08-14",
+      "close": 7.465,
+      "ema20": 7.229,
+      "ema50": 7.508,
+      "ema200": 8.404,
+      "rsi14": 56.3,
+      "atr14": 0.25,
+      "atr_pct": 3.35,
+      "atr_rising": false,
+      "vol_ratio": 0.66,
+      "high_52w": 11.34,
+      "dist_52w_pct": -34.17,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 35.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
+      "zones_top3": [
+        {
+          "date": "2026-07-24",
+          "low": 6.55,
+          "high": 7.325,
+          "close": 6.635,
+          "vol_ratio": 4.39
+        },
+        {
+          "date": "2026-05-20",
+          "low": 7.905,
+          "high": 8.47,
+          "close": 8.35,
+          "vol_ratio": 2.34
+        },
+        {
+          "date": "2025-04-07",
+          "low": 7.465,
+          "high": 9.24,
+          "close": 8.795,
+          "vol_ratio": 2.24
+        }
+      ],
+      "zones_count": 20
+    },
+    {
       "ticker": "AF.PA",
       "nom": "Air France-KLM",
-      "date": "2026-08-13",
-      "close": 12.255,
-      "ema20": 12.374,
+      "date": "2026-08-14",
+      "close": 12.2,
+      "ema20": 12.357,
       "ema50": 12.187,
-      "ema200": 11.305,
-      "rsi14": 48.2,
-      "atr14": 0.45,
-      "atr_pct": 3.67,
+      "ema200": 11.316,
+      "rsi14": 47.4,
+      "atr14": 0.433,
+      "atr_pct": 3.55,
       "atr_rising": false,
-      "vol_ratio": 0.54,
+      "vol_ratio": 0.44,
       "high_52w": 15.165,
-      "dist_52w_pct": -19.19,
+      "dist_52w_pct": -19.55,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3915,11 +4062,11 @@
           "vol_ratio": 2.3
         },
         {
-          "date": "2026-02-19",
-          "low": 11.895,
-          "high": 13.445,
-          "close": 12.98,
-          "vol_ratio": 4.17
+          "date": "2026-06-12",
+          "low": 11.43,
+          "high": 12.05,
+          "close": 11.855,
+          "vol_ratio": 2.14
         }
       ],
       "zones_count": 17
@@ -3927,18 +4074,18 @@
     {
       "ticker": "BEN.PA",
       "nom": "Beneteau",
-      "date": "2026-08-13",
-      "close": 6.2,
-      "ema20": 6.141,
-      "ema50": 6.276,
-      "ema200": 6.961,
-      "rsi14": 52.4,
+      "date": "2026-08-14",
+      "close": 6.19,
+      "ema20": 6.152,
+      "ema50": 6.288,
+      "ema200": 6.968,
+      "rsi14": 50.9,
       "atr14": 0.137,
-      "atr_pct": 2.21,
+      "atr_pct": 2.22,
       "atr_rising": false,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.68,
       "high_52w": 8.766,
-      "dist_52w_pct": -29.27,
+      "dist_52w_pct": -29.39,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -3961,7 +4108,7 @@
           "low": 5.87,
           "high": 6.13,
           "close": 5.94,
-          "vol_ratio": 3.2
+          "vol_ratio": 3.22
         },
         {
           "date": "2026-05-05",
@@ -3974,167 +4121,69 @@
       "zones_count": 20
     },
     {
-      "ticker": "BOL.PA",
-      "nom": "Bollore",
-      "date": "2026-08-13",
-      "close": 3.872,
-      "ema20": 3.882,
-      "ema50": 3.903,
-      "ema200": 3.725,
-      "rsi14": 47.2,
-      "atr14": 0.074,
-      "atr_pct": 1.9,
-      "atr_rising": false,
-      "vol_ratio": 1.19,
-      "high_52w": 4.196,
-      "dist_52w_pct": -7.72,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 33.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 3.786,
-          "high": 3.886,
-          "close": 3.886,
-          "vol_ratio": 3.72
-        },
-        {
-          "date": "2026-05-07",
-          "low": 3.782,
-          "high": 3.864,
-          "close": 3.786,
-          "vol_ratio": 6.64
-        },
-        {
-          "date": "2026-06-19",
-          "low": 3.871,
-          "high": 3.989,
-          "close": 3.939,
-          "vol_ratio": 2.22
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "ENGI.PA",
-      "nom": "Engie",
-      "date": "2026-08-13",
-      "close": 26.13,
-      "ema20": 26.606,
-      "ema50": 26.787,
-      "ema200": 24.744,
-      "rsi14": 42.8,
-      "atr14": 0.571,
-      "atr_pct": 2.18,
+      "ticker": "SAN.PA",
+      "nom": "Sanofi",
+      "date": "2026-08-14",
+      "close": 75.52,
+      "ema20": 75.703,
+      "ema50": 75.659,
+      "ema200": 76.965,
+      "rsi14": 49.2,
+      "atr14": 1.833,
+      "atr_pct": 2.43,
       "atr_rising": true,
-      "vol_ratio": 1.03,
-      "high_52w": 28.454,
-      "dist_52w_pct": -8.17,
+      "vol_ratio": 0.68,
+      "high_52w": 86.324,
+      "dist_52w_pct": -12.52,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
         "ema_cross": null,
-        "near_ema200": false
+        "near_ema200": true
       },
-      "momentum_score": 32.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "momentum_score": 31.0,
+      "phase": "accumulation",
+      "phase_label": "Phase 1 - Accumulation",
       "zones_top3": [
         {
-          "date": "2026-03-03",
-          "low": 25.398,
-          "high": 26.864,
-          "close": 25.712,
-          "vol_ratio": 2.01
+          "date": "2026-07-30",
+          "low": 72.07,
+          "high": 79.26,
+          "close": 72.77,
+          "vol_ratio": 3.11
         },
         {
-          "date": "2026-03-02",
-          "low": 26.369,
-          "high": 27.226,
-          "close": 27.226,
-          "vol_ratio": 2.33
-        },
-        {
-          "date": "2026-07-31",
-          "low": 26.6,
-          "high": 27.52,
-          "close": 27.11,
-          "vol_ratio": 2.4
-        }
-      ],
-      "zones_count": 9
-    },
-    {
-      "ticker": "EN.PA",
-      "nom": "Bouygues",
-      "date": "2026-08-13",
-      "close": 47.58,
-      "ema20": 48.116,
-      "ema50": 48.4,
-      "ema200": 46.091,
-      "rsi14": 45.7,
-      "atr14": 0.924,
-      "atr_pct": 1.94,
-      "atr_rising": true,
-      "vol_ratio": 1.02,
-      "high_52w": 53.24,
-      "dist_52w_pct": -10.63,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 32.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-02-27",
-          "low": 47.812,
-          "high": 50.978,
-          "close": 50.537,
-          "vol_ratio": 2.41
-        },
-        {
-          "date": "2026-06-19",
-          "low": 49.98,
-          "high": 50.44,
-          "close": 50.32,
-          "vol_ratio": 2.77
+          "date": "2026-02-12",
+          "low": 73.245,
+          "high": 78.558,
+          "close": 74.912,
+          "vol_ratio": 2.47
         },
         {
           "date": "2026-05-29",
-          "low": 50.18,
-          "high": 51.02,
-          "close": 50.46,
-          "vol_ratio": 4.39
+          "low": 74.97,
+          "high": 76.93,
+          "close": 75.29,
+          "vol_ratio": 2.6
         }
       ],
-      "zones_count": 12
+      "zones_count": 13
     },
     {
       "ticker": "CA.PA",
       "nom": "Carrefour",
-      "date": "2026-08-13",
-      "close": 15.725,
-      "ema20": 15.892,
-      "ema50": 15.912,
-      "ema200": 14.751,
-      "rsi14": 45.1,
-      "atr14": 0.3,
-      "atr_pct": 1.91,
+      "date": "2026-08-14",
+      "close": 15.8,
+      "ema20": 15.883,
+      "ema50": 15.897,
+      "ema200": 14.734,
+      "rsi14": 47.3,
+      "atr14": 0.305,
+      "atr_pct": 1.93,
       "atr_rising": false,
-      "vol_ratio": 0.67,
+      "vol_ratio": 0.34,
       "high_52w": 16.689,
-      "dist_52w_pct": -5.78,
+      "dist_52w_pct": -5.33,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4164,26 +4213,26 @@
           "low": 15.016,
           "high": 15.737,
           "close": 15.5,
-          "vol_ratio": 2.13
+          "vol_ratio": 2.14
         }
       ],
       "zones_count": 15
     },
     {
-      "ticker": "ORA.PA",
-      "nom": "Orange",
-      "date": "2026-08-13",
-      "close": 16.285,
-      "ema20": 16.381,
-      "ema50": 16.575,
-      "ema200": 15.884,
-      "rsi14": 47.5,
-      "atr14": 0.371,
-      "atr_pct": 2.28,
+      "ticker": "EN.PA",
+      "nom": "Bouygues",
+      "date": "2026-08-14",
+      "close": 47.65,
+      "ema20": 48.071,
+      "ema50": 48.371,
+      "ema200": 46.109,
+      "rsi14": 46.3,
+      "atr14": 0.903,
+      "atr_pct": 1.9,
       "atr_rising": true,
-      "vol_ratio": 0.76,
-      "high_52w": 18.335,
-      "dist_52w_pct": -11.18,
+      "vol_ratio": 0.85,
+      "high_52w": 53.24,
+      "dist_52w_pct": -10.5,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4195,25 +4244,25 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-03-20",
-          "low": 16.6,
-          "high": 16.897,
-          "close": 16.688,
-          "vol_ratio": 3.73
+          "date": "2026-02-27",
+          "low": 47.812,
+          "high": 50.978,
+          "close": 50.537,
+          "vol_ratio": 2.41
         },
         {
           "date": "2026-06-19",
-          "low": 16.865,
-          "high": 17.085,
-          "close": 17.085,
-          "vol_ratio": 2.67
+          "low": 49.98,
+          "high": 50.44,
+          "close": 50.32,
+          "vol_ratio": 2.77
         },
         {
-          "date": "2025-12-19",
-          "low": 13.499,
-          "high": 13.602,
-          "close": 13.563,
-          "vol_ratio": 2.22
+          "date": "2026-05-29",
+          "low": 50.18,
+          "high": 51.02,
+          "close": 50.46,
+          "vol_ratio": 4.39
         }
       ],
       "zones_count": 12
@@ -4221,18 +4270,18 @@
     {
       "ticker": "IPN.PA",
       "nom": "Ipsen",
-      "date": "2026-08-13",
-      "close": 157.5,
-      "ema20": 159.44,
-      "ema50": 160.092,
-      "ema200": 148.279,
-      "rsi14": 47.0,
-      "atr14": 4.997,
-      "atr_pct": 3.17,
+      "date": "2026-08-14",
+      "close": 156.0,
+      "ema20": 158.917,
+      "ema50": 159.743,
+      "ema200": 148.007,
+      "rsi14": 44.4,
+      "atr14": 4.406,
+      "atr_pct": 2.82,
       "atr_rising": true,
-      "vol_ratio": 0.74,
-      "high_52w": 174.0,
-      "dist_52w_pct": -9.48,
+      "vol_ratio": 0.73,
+      "high_52w": 172.7,
+      "dist_52w_pct": -9.67,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4268,69 +4317,20 @@
       "zones_count": 14
     },
     {
-      "ticker": "FGR.PA",
-      "nom": "Eiffage",
-      "date": "2026-08-13",
-      "close": 121.25,
-      "ema20": 122.975,
-      "ema50": 124.294,
-      "ema200": 122.461,
-      "rsi14": 43.3,
-      "atr14": 2.168,
-      "atr_pct": 1.79,
-      "atr_rising": false,
-      "vol_ratio": 1.2,
-      "high_52w": 142.02,
-      "dist_52w_pct": -14.62,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 22.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-05-29",
-          "low": 123.8,
-          "high": 125.7,
-          "close": 124.75,
-          "vol_ratio": 2.27
-        },
-        {
-          "date": "2025-05-30",
-          "low": 116.168,
-          "high": 118.671,
-          "close": 116.601,
-          "vol_ratio": 2.46
-        },
-        {
-          "date": "2025-12-19",
-          "low": 116.312,
-          "high": 118.286,
-          "close": 116.986,
-          "vol_ratio": 4.75
-        }
-      ],
-      "zones_count": 15
-    },
-    {
-      "ticker": "UBI.PA",
-      "nom": "Ubisoft Entertainment",
-      "date": "2026-08-13",
-      "close": 5.16,
-      "ema20": 5.365,
-      "ema50": 5.323,
-      "ema200": 5.792,
-      "rsi14": 45.0,
-      "atr14": 0.305,
-      "atr_pct": 5.91,
-      "atr_rising": false,
-      "vol_ratio": 0.66,
-      "high_52w": 10.305,
-      "dist_52w_pct": -49.93,
+      "ticker": "ENGI.PA",
+      "nom": "Engie",
+      "date": "2026-08-14",
+      "close": 25.72,
+      "ema20": 26.522,
+      "ema50": 26.745,
+      "ema200": 24.752,
+      "rsi14": 38.7,
+      "atr14": 0.57,
+      "atr_pct": 2.22,
+      "atr_rising": true,
+      "vol_ratio": 1.02,
+      "high_52w": 28.454,
+      "dist_52w_pct": -9.61,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4338,48 +4338,195 @@
         "near_ema200": false
       },
       "momentum_score": 22.0,
-      "phase": "accumulation",
-      "phase_label": "Phase 1 - Accumulation",
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-07-23",
-          "low": 4.625,
-          "high": 5.466,
-          "close": 4.725,
-          "vol_ratio": 2.04
+          "date": "2026-03-03",
+          "low": 25.398,
+          "high": 26.864,
+          "close": 25.712,
+          "vol_ratio": 2.01
         },
         {
-          "date": "2026-05-22",
-          "low": 4.557,
-          "high": 5.504,
-          "close": 5.284,
+          "date": "2026-03-02",
+          "low": 26.369,
+          "high": 27.226,
+          "close": 27.226,
+          "vol_ratio": 2.33
+        },
+        {
+          "date": "2026-07-31",
+          "low": 26.6,
+          "high": 27.52,
+          "close": 27.11,
+          "vol_ratio": 2.4
+        }
+      ],
+      "zones_count": 9
+    },
+    {
+      "ticker": "AC.PA",
+      "nom": "Accor",
+      "date": "2026-08-14",
+      "close": 46.66,
+      "ema20": 46.739,
+      "ema50": 46.74,
+      "ema200": 45.183,
+      "rsi14": 48.6,
+      "atr14": 1.0,
+      "atr_pct": 2.14,
+      "atr_rising": false,
+      "vol_ratio": 0.82,
+      "high_52w": 52.0,
+      "dist_52w_pct": -10.27,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": "death",
+        "near_ema200": false
+      },
+      "momentum_score": 21.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2026-02-27",
+          "low": 47.079,
+          "high": 48.244,
+          "close": 47.846,
+          "vol_ratio": 2.24
+        },
+        {
+          "date": "2026-03-02",
+          "low": 42.737,
+          "high": 44.077,
+          "close": 43.592,
+          "vol_ratio": 2.91
+        },
+        {
+          "date": "2025-07-31",
+          "low": 41.843,
+          "high": 44.641,
+          "close": 43.378,
+          "vol_ratio": 3.96
+        }
+      ],
+      "zones_count": 10
+    },
+    {
+      "ticker": "ALO.PA",
+      "nom": "Alstom",
+      "date": "2026-08-14",
+      "close": 16.23,
+      "ema20": 16.241,
+      "ema50": 16.517,
+      "ema200": 19.585,
+      "rsi14": 50.1,
+      "atr14": 0.415,
+      "atr_pct": 2.56,
+      "atr_rising": false,
+      "vol_ratio": 0.67,
+      "high_52w": 30.23,
+      "dist_52w_pct": -46.31,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 20.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2026-04-17",
+          "low": 14.72,
+          "high": 17.3,
+          "close": 16.64,
+          "vol_ratio": 8.01
+        },
+        {
+          "date": "2026-04-20",
+          "low": 16.355,
+          "high": 17.61,
+          "close": 17.085,
+          "vol_ratio": 3.2
+        },
+        {
+          "date": "2026-05-29",
+          "low": 17.1,
+          "high": 17.47,
+          "close": 17.14,
+          "vol_ratio": 2.2
+        }
+      ],
+      "zones_count": 16
+    },
+    {
+      "ticker": "OPM.PA",
+      "nom": "OPmobility",
+      "date": "2026-08-14",
+      "close": 12.72,
+      "ema20": 12.85,
+      "ema50": 13.515,
+      "ema200": 14.083,
+      "rsi14": 41.8,
+      "atr14": 0.314,
+      "atr_pct": 2.47,
+      "atr_rising": false,
+      "vol_ratio": 1.0,
+      "high_52w": 17.559,
+      "dist_52w_pct": -27.56,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 17.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2025-07-24",
+          "low": 12.067,
+          "high": 13.208,
+          "close": 12.889,
+          "vol_ratio": 3.28
+        },
+        {
+          "date": "2025-07-25",
+          "low": 12.541,
+          "high": 13.43,
+          "close": 12.937,
           "vol_ratio": 3.06
         },
         {
-          "date": "2026-07-24",
-          "low": 4.478,
-          "high": 4.91,
-          "close": 4.825,
-          "vol_ratio": 2.0
+          "date": "2025-07-28",
+          "low": 12.898,
+          "high": 13.382,
+          "close": 12.937,
+          "vol_ratio": 2.01
         }
       ],
-      "zones_count": 20
+      "zones_count": 17
     },
     {
-      "ticker": "STMPA.PA",
-      "nom": "STMicroelectronics",
-      "date": "2026-08-13",
-      "close": 47.665,
-      "ema20": 49.452,
-      "ema50": 52.554,
-      "ema200": 42.118,
-      "rsi14": 40.9,
-      "atr14": 2.555,
-      "atr_pct": 5.36,
+      "ticker": "DBG.PA",
+      "nom": "Derichebourg",
+      "date": "2026-08-14",
+      "close": 9.195,
+      "ema20": 9.356,
+      "ema50": 9.477,
+      "ema200": 8.527,
+      "rsi14": 41.9,
+      "atr14": 0.217,
+      "atr_pct": 2.36,
       "atr_rising": false,
-      "vol_ratio": 0.67,
-      "high_52w": 70.85,
-      "dist_52w_pct": -32.72,
+      "vol_ratio": 0.7,
+      "high_52w": 11.0,
+      "dist_52w_pct": -16.41,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4391,93 +4538,44 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-07-23",
-          "low": 46.98,
-          "high": 52.0,
-          "close": 47.945,
-          "vol_ratio": 2.55
+          "date": "2026-02-18",
+          "low": 8.545,
+          "high": 9.72,
+          "close": 9.265,
+          "vol_ratio": 2.83
         },
         {
-          "date": "2026-04-23",
-          "low": 38.948,
-          "high": 43.088,
-          "close": 42.813,
-          "vol_ratio": 2.28
+          "date": "2026-08-07",
+          "low": 9.31,
+          "high": 9.45,
+          "close": 9.325,
+          "vol_ratio": 2.48
         },
         {
-          "date": "2026-05-29",
-          "low": 58.193,
-          "high": 60.799,
-          "close": 58.872,
-          "vol_ratio": 2.82
+          "date": "2026-03-03",
+          "low": 8.54,
+          "high": 9.0,
+          "close": 8.68,
+          "vol_ratio": 2.18
         }
       ],
-      "zones_count": 14
-    },
-    {
-      "ticker": "MAU.PA",
-      "nom": "Maurel & Prom",
-      "date": "2026-08-13",
-      "close": 8.055,
-      "ema20": 8.072,
-      "ema50": 8.286,
-      "ema200": 7.846,
-      "rsi14": 48.5,
-      "atr14": 0.255,
-      "atr_pct": 3.17,
-      "atr_rising": false,
-      "vol_ratio": 0.69,
-      "high_52w": 11.44,
-      "dist_52w_pct": -29.59,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 16.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-07-08",
-          "low": 7.765,
-          "high": 8.15,
-          "close": 8.1,
-          "vol_ratio": 2.3
-        },
-        {
-          "date": "2026-02-19",
-          "low": 8.0,
-          "high": 8.605,
-          "close": 8.585,
-          "vol_ratio": 2.08
-        },
-        {
-          "date": "2026-02-16",
-          "low": 6.85,
-          "high": 7.655,
-          "close": 7.635,
-          "vol_ratio": 2.31
-        }
-      ],
-      "zones_count": 20
+      "zones_count": 19
     },
     {
       "ticker": "DG.PA",
       "nom": "Vinci",
-      "date": "2026-08-13",
-      "close": 121.95,
-      "ema20": 122.944,
-      "ema50": 123.479,
-      "ema200": 122.66,
-      "rsi14": 47.0,
-      "atr14": 2.293,
-      "atr_pct": 1.88,
+      "date": "2026-08-14",
+      "close": 120.85,
+      "ema20": 122.746,
+      "ema50": 123.511,
+      "ema200": 122.687,
+      "rsi14": 43.7,
+      "atr14": 2.191,
+      "atr_pct": 1.81,
       "atr_rising": false,
-      "vol_ratio": 0.95,
+      "vol_ratio": 0.87,
       "high_52w": 139.017,
-      "dist_52w_pct": -12.28,
+      "dist_52w_pct": -13.07,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4503,11 +4601,11 @@
           "vol_ratio": 3.42
         },
         {
-          "date": "2026-05-29",
-          "low": 123.95,
-          "high": 126.2,
-          "close": 125.05,
-          "vol_ratio": 2.44
+          "date": "2025-06-20",
+          "low": 116.031,
+          "high": 117.522,
+          "close": 117.137,
+          "vol_ratio": 2.51
         }
       ],
       "zones_count": 11
@@ -4515,18 +4613,18 @@
     {
       "ticker": "VIE.PA",
       "nom": "Veolia Environnement",
-      "date": "2026-08-13",
-      "close": 34.22,
-      "ema20": 35.29,
-      "ema50": 35.461,
-      "ema200": 32.927,
-      "rsi14": 37.5,
-      "atr14": 0.632,
-      "atr_pct": 1.85,
+      "date": "2026-08-14",
+      "close": 34.03,
+      "ema20": 35.229,
+      "ema50": 35.412,
+      "ema200": 32.887,
+      "rsi14": 36.5,
+      "atr14": 0.639,
+      "atr_pct": 1.88,
       "atr_rising": true,
-      "vol_ratio": 0.65,
+      "vol_ratio": 0.87,
       "high_52w": 37.66,
-      "dist_52w_pct": -9.13,
+      "dist_52w_pct": -9.64,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4562,20 +4660,69 @@
       "zones_count": 8
     },
     {
+      "ticker": "FGR.PA",
+      "nom": "Eiffage",
+      "date": "2026-08-14",
+      "close": 120.8,
+      "ema20": 122.768,
+      "ema50": 124.157,
+      "ema200": 122.459,
+      "rsi14": 42.1,
+      "atr14": 2.095,
+      "atr_pct": 1.73,
+      "atr_rising": false,
+      "vol_ratio": 0.71,
+      "high_52w": 142.02,
+      "dist_52w_pct": -14.94,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": true
+      },
+      "momentum_score": 15.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2025-05-30",
+          "low": 116.168,
+          "high": 118.671,
+          "close": 116.601,
+          "vol_ratio": 2.46
+        },
+        {
+          "date": "2025-12-19",
+          "low": 116.312,
+          "high": 118.286,
+          "close": 116.986,
+          "vol_ratio": 4.75
+        },
+        {
+          "date": "2026-05-29",
+          "low": 123.8,
+          "high": 125.7,
+          "close": 124.75,
+          "vol_ratio": 2.27
+        }
+      ],
+      "zones_count": 15
+    },
+    {
       "ticker": "ELIS.PA",
       "nom": "Elis",
-      "date": "2026-08-13",
-      "close": 24.84,
-      "ema20": 25.16,
-      "ema50": 25.622,
-      "ema200": 24.987,
-      "rsi14": 44.1,
-      "atr14": 0.557,
-      "atr_pct": 2.24,
+      "date": "2026-08-14",
+      "close": 24.8,
+      "ema20": 25.125,
+      "ema50": 25.589,
+      "ema200": 24.991,
+      "rsi14": 43.7,
+      "atr14": 0.547,
+      "atr_pct": 2.21,
       "atr_rising": false,
-      "vol_ratio": 0.61,
+      "vol_ratio": 0.69,
       "high_52w": 28.34,
-      "dist_52w_pct": -12.35,
+      "dist_52w_pct": -12.49,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4613,18 +4760,18 @@
     {
       "ticker": "VIRP.PA",
       "nom": "Virbac",
-      "date": "2026-08-13",
-      "close": 331.5,
-      "ema20": 336.709,
-      "ema50": 338.166,
-      "ema200": 342.846,
-      "rsi14": 45.7,
-      "atr14": 7.905,
-      "atr_pct": 2.38,
+      "date": "2026-08-14",
+      "close": 332.5,
+      "ema20": 336.288,
+      "ema50": 338.201,
+      "ema200": 342.914,
+      "rsi14": 46.8,
+      "atr14": 7.781,
+      "atr_pct": 2.34,
       "atr_rising": false,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.26,
       "high_52w": 387.789,
-      "dist_52w_pct": -14.52,
+      "dist_52w_pct": -14.26,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4636,18 +4783,18 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2025-08-26",
-          "low": 328.55,
-          "high": 335.021,
-          "close": 332.035,
-          "vol_ratio": 2.61
-        },
-        {
           "date": "2025-10-17",
           "low": 328.052,
           "high": 338.008,
           "close": 332.035,
           "vol_ratio": 3.12
+        },
+        {
+          "date": "2025-08-26",
+          "low": 328.55,
+          "high": 335.021,
+          "close": 332.035,
+          "vol_ratio": 2.61
         },
         {
           "date": "2026-03-16",
@@ -4660,118 +4807,20 @@
       "zones_count": 20
     },
     {
-      "ticker": "RBT.PA",
-      "nom": "Robertet",
-      "date": "2026-08-13",
-      "close": 800.0,
-      "ema20": 802.719,
-      "ema50": 804.729,
-      "ema200": 813.74,
-      "rsi14": 48.2,
-      "atr14": 15.727,
-      "atr_pct": 1.97,
-      "atr_rising": false,
-      "vol_ratio": 0.99,
-      "high_52w": 908.441,
-      "dist_52w_pct": -11.94,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": true
-      },
-      "momentum_score": 15.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-06-25",
-          "low": 794.147,
-          "high": 806.956,
-          "close": 797.103,
-          "vol_ratio": 3.23
-        },
-        {
-          "date": "2026-06-24",
-          "low": 796.118,
-          "high": 807.941,
-          "close": 806.956,
-          "vol_ratio": 2.25
-        },
-        {
-          "date": "2025-06-25",
-          "low": 788.174,
-          "high": 806.662,
-          "close": 788.174,
-          "vol_ratio": 2.12
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "EL.PA",
-      "nom": "EssilorLuxottica",
-      "date": "2026-08-13",
-      "close": 163.75,
-      "ema20": 168.216,
-      "ema50": 171.183,
-      "ema200": 204.36,
-      "rsi14": 41.6,
-      "atr14": 5.31,
-      "atr_pct": 3.24,
-      "atr_rising": true,
-      "vol_ratio": 0.65,
-      "high_52w": 316.324,
-      "dist_52w_pct": -48.23,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 14.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-07-29",
-          "low": 161.65,
-          "high": 176.25,
-          "close": 165.1,
-          "vol_ratio": 2.18
-        },
-        {
-          "date": "2026-04-01",
-          "low": 182.487,
-          "high": 197.434,
-          "close": 189.472,
-          "vol_ratio": 2.01
-        },
-        {
-          "date": "2026-02-27",
-          "low": 220.001,
-          "high": 233.042,
-          "close": 220.001,
-          "vol_ratio": 3.01
-        }
-      ],
-      "zones_count": 16
-    },
-    {
       "ticker": "RMS.PA",
       "nom": "Hermes International",
-      "date": "2026-08-13",
-      "close": 1579.5,
-      "ema20": 1612.027,
-      "ema50": 1631.122,
-      "ema200": 1817.744,
-      "rsi14": 45.1,
-      "atr14": 51.339,
-      "atr_pct": 3.25,
+      "date": "2026-08-14",
+      "close": 1576.0,
+      "ema20": 1611.785,
+      "ema50": 1631.668,
+      "ema200": 1820.168,
+      "rsi14": 44.3,
+      "atr14": 50.307,
+      "atr_pct": 3.19,
       "atr_rising": true,
-      "vol_ratio": 0.63,
+      "vol_ratio": 0.68,
       "high_52w": 2277.055,
-      "dist_52w_pct": -30.63,
+      "dist_52w_pct": -30.79,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4794,7 +4843,7 @@
           "low": 1465.5,
           "high": 1660.5,
           "close": 1508.5,
-          "vol_ratio": 4.77
+          "vol_ratio": 4.71
         },
         {
           "date": "2026-05-29",
@@ -4809,18 +4858,18 @@
     {
       "ticker": "TE.PA",
       "nom": "Technip Energies",
-      "date": "2026-08-13",
-      "close": 30.76,
-      "ema20": 31.274,
-      "ema50": 32.818,
-      "ema200": 33.919,
-      "rsi14": 42.7,
-      "atr14": 1.008,
-      "atr_pct": 3.28,
+      "date": "2026-08-14",
+      "close": 31.3,
+      "ema20": 31.399,
+      "ema50": 32.889,
+      "ema200": 33.948,
+      "rsi14": 46.1,
+      "atr14": 0.973,
+      "atr_pct": 3.11,
       "atr_rising": true,
-      "vol_ratio": 0.73,
+      "vol_ratio": 0.96,
       "high_52w": 41.665,
-      "dist_52w_pct": -26.17,
+      "dist_52w_pct": -24.88,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4839,37 +4888,37 @@
           "vol_ratio": 2.81
         },
         {
-          "date": "2026-07-31",
-          "low": 29.56,
-          "high": 31.12,
-          "close": 29.9,
-          "vol_ratio": 2.16
-        },
-        {
           "date": "2026-03-23",
           "low": 30.164,
           "high": 34.27,
           "close": 33.18,
+          "vol_ratio": 2.16
+        },
+        {
+          "date": "2026-07-31",
+          "low": 29.56,
+          "high": 31.12,
+          "close": 29.9,
           "vol_ratio": 2.16
         }
       ],
       "zones_count": 18
     },
     {
-      "ticker": "STLAP.PA",
-      "nom": "Stellantis",
-      "date": "2026-08-13",
-      "close": 4.63,
-      "ema20": 4.917,
-      "ema50": 5.252,
-      "ema200": 6.666,
-      "rsi14": 34.7,
-      "atr14": 0.195,
-      "atr_pct": 4.21,
+      "ticker": "VIV.PA",
+      "nom": "Vivendi",
+      "date": "2026-08-14",
+      "close": 1.694,
+      "ema20": 1.788,
+      "ema50": 1.933,
+      "ema200": 2.206,
+      "rsi14": 38.5,
+      "atr14": 0.072,
+      "atr_pct": 4.26,
       "atr_rising": true,
-      "vol_ratio": 1.16,
-      "high_52w": 10.494,
-      "dist_52w_pct": -55.88,
+      "vol_ratio": 1.14,
+      "high_52w": 3.154,
+      "dist_52w_pct": -46.3,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4881,44 +4930,44 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-07-30",
-          "low": 4.823,
-          "high": 5.13,
-          "close": 5.056,
-          "vol_ratio": 2.01
+          "date": "2026-03-20",
+          "low": 1.683,
+          "high": 1.756,
+          "close": 1.683,
+          "vol_ratio": 3.86
         },
         {
-          "date": "2026-02-09",
-          "low": 5.995,
-          "high": 6.36,
-          "close": 6.136,
-          "vol_ratio": 2.3
+          "date": "2026-07-31",
+          "low": 1.56,
+          "high": 1.898,
+          "close": 1.596,
+          "vol_ratio": 5.92
         },
         {
-          "date": "2026-04-30",
-          "low": 5.952,
-          "high": 6.423,
-          "close": 6.215,
-          "vol_ratio": 2.16
+          "date": "2026-08-03",
+          "low": 1.602,
+          "high": 1.675,
+          "close": 1.623,
+          "vol_ratio": 2.15
         }
       ],
-      "zones_count": 18
+      "zones_count": 17
     },
     {
-      "ticker": "ALO.PA",
-      "nom": "Alstom",
-      "date": "2026-08-13",
-      "close": 15.985,
-      "ema20": 16.248,
-      "ema50": 16.499,
-      "ema200": 19.549,
-      "rsi14": 45.9,
-      "atr14": 0.423,
-      "atr_pct": 2.64,
+      "ticker": "VRLA.PA",
+      "nom": "Verallia",
+      "date": "2026-08-14",
+      "close": 18.32,
+      "ema20": 18.661,
+      "ema50": 19.045,
+      "ema200": 20.147,
+      "rsi14": 42.9,
+      "atr14": 0.502,
+      "atr_pct": 2.74,
       "atr_rising": false,
       "vol_ratio": 0.7,
-      "high_52w": 30.23,
-      "dist_52w_pct": -47.12,
+      "high_52w": 25.998,
+      "dist_52w_pct": -29.53,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4930,44 +4979,44 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-04-17",
-          "low": 14.72,
-          "high": 17.3,
-          "close": 16.64,
-          "vol_ratio": 8.01
+          "date": "2026-07-29",
+          "low": 17.91,
+          "high": 18.89,
+          "close": 18.57,
+          "vol_ratio": 4.8
         },
         {
-          "date": "2026-04-20",
-          "low": 16.355,
-          "high": 17.61,
-          "close": 17.085,
-          "vol_ratio": 3.2
+          "date": "2026-02-25",
+          "low": 17.954,
+          "high": 19.266,
+          "close": 18.591,
+          "vol_ratio": 3.71
         },
         {
-          "date": "2026-05-29",
-          "low": 17.1,
-          "high": 17.47,
-          "close": 17.14,
-          "vol_ratio": 2.2
+          "date": "2026-06-22",
+          "low": 18.64,
+          "high": 19.55,
+          "close": 18.79,
+          "vol_ratio": 2.5
         }
       ],
-      "zones_count": 16
+      "zones_count": 20
     },
     {
-      "ticker": "DBG.PA",
-      "nom": "Derichebourg",
-      "date": "2026-08-13",
-      "close": 9.1,
-      "ema20": 9.361,
-      "ema50": 9.477,
-      "ema200": 8.537,
-      "rsi14": 38.5,
-      "atr14": 0.221,
-      "atr_pct": 2.43,
+      "ticker": "STMPA.PA",
+      "nom": "STMicroelectronics",
+      "date": "2026-08-14",
+      "close": 46.655,
+      "ema20": 49.186,
+      "ema50": 52.323,
+      "ema200": 42.172,
+      "rsi14": 38.6,
+      "atr14": 2.446,
+      "atr_pct": 5.24,
       "atr_rising": false,
-      "vol_ratio": 0.65,
-      "high_52w": 11.0,
-      "dist_52w_pct": -17.27,
+      "vol_ratio": 0.53,
+      "high_52w": 70.85,
+      "dist_52w_pct": -34.15,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -4979,44 +5028,93 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-02-18",
-          "low": 8.545,
-          "high": 9.72,
-          "close": 9.265,
-          "vol_ratio": 2.83
+          "date": "2026-07-23",
+          "low": 46.98,
+          "high": 52.0,
+          "close": 47.945,
+          "vol_ratio": 2.55
         },
         {
-          "date": "2026-08-07",
-          "low": 9.31,
-          "high": 9.45,
-          "close": 9.325,
-          "vol_ratio": 2.47
+          "date": "2026-04-23",
+          "low": 38.948,
+          "high": 43.088,
+          "close": 42.813,
+          "vol_ratio": 2.28
         },
         {
-          "date": "2026-03-03",
-          "low": 8.54,
-          "high": 9.0,
-          "close": 8.68,
-          "vol_ratio": 2.18
+          "date": "2026-05-29",
+          "low": 58.193,
+          "high": 60.799,
+          "close": 58.872,
+          "vol_ratio": 2.82
         }
       ],
-      "zones_count": 19
+      "zones_count": 14
+    },
+    {
+      "ticker": "EL.PA",
+      "nom": "EssilorLuxottica",
+      "date": "2026-08-14",
+      "close": 162.55,
+      "ema20": 167.824,
+      "ema50": 171.197,
+      "ema200": 204.677,
+      "rsi14": 39.9,
+      "atr14": 5.141,
+      "atr_pct": 3.16,
+      "atr_rising": true,
+      "vol_ratio": 0.59,
+      "high_52w": 316.324,
+      "dist_52w_pct": -48.61,
+      "signals": {
+        "breakout_52w": false,
+        "volume_spike": false,
+        "ema_cross": null,
+        "near_ema200": false
+      },
+      "momentum_score": 4.0,
+      "phase": "distribution",
+      "phase_label": "Phase 4 - Distribution / faiblesse",
+      "zones_top3": [
+        {
+          "date": "2026-07-29",
+          "low": 161.65,
+          "high": 176.25,
+          "close": 165.1,
+          "vol_ratio": 2.16
+        },
+        {
+          "date": "2026-04-01",
+          "low": 182.487,
+          "high": 197.434,
+          "close": 189.472,
+          "vol_ratio": 2.01
+        },
+        {
+          "date": "2026-02-27",
+          "low": 220.001,
+          "high": 233.042,
+          "close": 220.001,
+          "vol_ratio": 3.01
+        }
+      ],
+      "zones_count": 16
     },
     {
       "ticker": "VK.PA",
       "nom": "Vallourec",
-      "date": "2026-08-13",
-      "close": 18.13,
-      "ema20": 19.649,
-      "ema50": 20.834,
-      "ema200": 20.264,
-      "rsi14": 29.6,
-      "atr14": 0.659,
-      "atr_pct": 3.64,
+      "date": "2026-08-14",
+      "close": 18.09,
+      "ema20": 19.516,
+      "ema50": 20.77,
+      "ema200": 20.233,
+      "rsi14": 30.1,
+      "atr14": 0.641,
+      "atr_pct": 3.54,
       "atr_rising": true,
-      "vol_ratio": 0.84,
+      "vol_ratio": 0.77,
       "high_52w": 27.67,
-      "dist_52w_pct": -34.48,
+      "dist_52w_pct": -34.62,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -5052,69 +5150,20 @@
       "zones_count": 14
     },
     {
-      "ticker": "VIV.PA",
-      "nom": "Vivendi",
-      "date": "2026-08-13",
-      "close": 1.63,
-      "ema20": 1.78,
-      "ema50": 1.926,
-      "ema200": 2.201,
-      "rsi14": 33.3,
-      "atr14": 0.073,
-      "atr_pct": 4.45,
-      "atr_rising": true,
-      "vol_ratio": 0.98,
-      "high_52w": 3.154,
-      "dist_52w_pct": -48.33,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 4.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2026-08-03",
-          "low": 1.602,
-          "high": 1.675,
-          "close": 1.623,
-          "vol_ratio": 2.34
-        },
-        {
-          "date": "2026-03-20",
-          "low": 1.683,
-          "high": 1.756,
-          "close": 1.683,
-          "vol_ratio": 3.86
-        },
-        {
-          "date": "2026-07-31",
-          "low": 1.56,
-          "high": 1.898,
-          "close": 1.596,
-          "vol_ratio": 5.92
-        }
-      ],
-      "zones_count": 17
-    },
-    {
       "ticker": "MC.PA",
       "nom": "LVMH",
-      "date": "2026-08-13",
-      "close": 460.0,
-      "ema20": 476.848,
-      "ema50": 480.726,
-      "ema200": 504.502,
-      "rsi14": 38.2,
-      "atr14": 12.955,
-      "atr_pct": 2.82,
+      "date": "2026-08-14",
+      "close": 458.4,
+      "ema20": 475.303,
+      "ema50": 480.073,
+      "ema200": 504.657,
+      "rsi14": 38.1,
+      "atr14": 12.835,
+      "atr_pct": 2.8,
       "atr_rising": false,
-      "vol_ratio": 0.99,
+      "vol_ratio": 0.7,
       "high_52w": 643.802,
-      "dist_52w_pct": -28.55,
+      "dist_52w_pct": -28.8,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -5140,30 +5189,30 @@
           "vol_ratio": 2.22
         },
         {
-          "date": "2025-08-26",
-          "low": 470.842,
-          "high": 483.231,
-          "close": 474.354,
-          "vol_ratio": 4.88
+          "date": "2025-06-20",
+          "low": 437.723,
+          "high": 445.82,
+          "close": 438.942,
+          "vol_ratio": 2.81
         }
       ],
       "zones_count": 10
     },
     {
-      "ticker": "VRLA.PA",
-      "nom": "Verallia",
-      "date": "2026-08-13",
-      "close": 17.91,
-      "ema20": 18.652,
-      "ema50": 19.044,
-      "ema200": 20.142,
-      "rsi14": 35.6,
-      "atr14": 0.489,
-      "atr_pct": 2.73,
+      "ticker": "STLAP.PA",
+      "nom": "Stellantis",
+      "date": "2026-08-14",
+      "close": 4.61,
+      "ema20": 4.888,
+      "ema50": 5.227,
+      "ema200": 6.649,
+      "rsi14": 34.1,
+      "atr14": 0.188,
+      "atr_pct": 4.07,
       "atr_rising": false,
-      "vol_ratio": 0.64,
-      "high_52w": 25.618,
-      "dist_52w_pct": -30.09,
+      "vol_ratio": 0.69,
+      "high_52w": 10.494,
+      "dist_52w_pct": -56.07,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
@@ -5175,93 +5224,44 @@
       "phase_label": "Phase 4 - Distribution / faiblesse",
       "zones_top3": [
         {
-          "date": "2026-07-29",
-          "low": 17.91,
-          "high": 18.89,
-          "close": 18.57,
-          "vol_ratio": 4.87
-        },
-        {
-          "date": "2026-02-25",
-          "low": 17.954,
-          "high": 19.266,
-          "close": 18.591,
-          "vol_ratio": 3.71
-        },
-        {
-          "date": "2026-06-22",
-          "low": 18.64,
-          "high": 19.55,
-          "close": 18.79,
-          "vol_ratio": 2.5
-        }
-      ],
-      "zones_count": 20
-    },
-    {
-      "ticker": "OPM.PA",
-      "nom": "OPmobility",
-      "date": "2026-08-13",
-      "close": 12.56,
-      "ema20": 12.832,
-      "ema50": 13.487,
-      "ema200": 14.075,
-      "rsi14": 37.8,
-      "atr14": 0.33,
-      "atr_pct": 2.63,
-      "atr_rising": false,
-      "vol_ratio": 0.7,
-      "high_52w": 17.559,
-      "dist_52w_pct": -28.47,
-      "signals": {
-        "breakout_52w": false,
-        "volume_spike": false,
-        "ema_cross": null,
-        "near_ema200": false
-      },
-      "momentum_score": 0.0,
-      "phase": "distribution",
-      "phase_label": "Phase 4 - Distribution / faiblesse",
-      "zones_top3": [
-        {
-          "date": "2025-07-24",
-          "low": 12.067,
-          "high": 13.208,
-          "close": 12.889,
-          "vol_ratio": 3.28
-        },
-        {
-          "date": "2025-07-25",
-          "low": 12.541,
-          "high": 13.43,
-          "close": 12.937,
-          "vol_ratio": 3.06
-        },
-        {
-          "date": "2025-07-28",
-          "low": 12.898,
-          "high": 13.382,
-          "close": 12.937,
+          "date": "2026-07-30",
+          "low": 4.823,
+          "high": 5.13,
+          "close": 5.056,
           "vol_ratio": 2.01
+        },
+        {
+          "date": "2026-02-09",
+          "low": 5.995,
+          "high": 6.36,
+          "close": 6.136,
+          "vol_ratio": 2.3
+        },
+        {
+          "date": "2026-04-30",
+          "low": 5.952,
+          "high": 6.423,
+          "close": 6.215,
+          "vol_ratio": 2.16
         }
       ],
-      "zones_count": 17
+      "zones_count": 18
     },
     {
       "ticker": "ATO.PA",
       "nom": "Atos",
-      "date": "2026-08-13",
-      "close": 29.64,
-      "ema20": 31.19,
-      "ema50": 32.826,
-      "ema200": 37.705,
-      "rsi14": 37.2,
-      "atr14": 1.303,
-      "atr_pct": 4.4,
+      "date": "2026-08-14",
+      "close": 29.56,
+      "ema20": 31.035,
+      "ema50": 32.698,
+      "ema200": 37.667,
+      "rsi14": 36.8,
+      "atr14": 1.274,
+      "atr_pct": 4.31,
       "atr_rising": false,
-      "vol_ratio": 0.48,
+      "vol_ratio": 0.53,
       "high_52w": 63.24,
-      "dist_52w_pct": -53.13,
+      "dist_52w_pct": -53.26,
       "signals": {
         "breakout_52w": false,
         "volume_spike": false,
